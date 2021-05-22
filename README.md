@@ -22,4 +22,5 @@ Data Cleansing Our first data source had 16 columns and the second data source h
 5.Removing and renaming columns with underscores Because of the merging of data sources duplicate columns were created with underscore. We renamed these to reflect better presentation in our databases.6.Capitalize column names in data frame for adding to databaseWe capitalize the columns names.
 
 LOAD Loading DataCreate database and made a secure connection to pgAdmin and stored data  from pandas.
+
 SCHEMA Our data source was very similar, so we only needed on table.
