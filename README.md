@@ -7,6 +7,7 @@ DATASOURCE. Extraction
 After identifying out data sources:
 
 1)https://www.kaggle.com/the-guardian/the-counted?select=2016.csv
+
 2)https://www.kaggle.com/andrewmvd/police-deadly-force-usage-us?select=fatal-police-shootings-data.cs
 
 We proceed to data evaluation by transforming our data in various ways as listed below.
