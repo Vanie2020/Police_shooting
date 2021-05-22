@@ -1,0 +1,648 @@
+name,manner_of_death,armed_x,city_x,state_x,signs_of_mental_illness,threat_level,body_camera,age_y,gender_y,raceethnicity,classification,lawenforcementagency,NewDate
+Matthew Hoffman,shot,toy weapon,San Francisco,CA,True,attack,False,32,Male,White,Gunshot,San Francisco Police Department,2015-01-04
+Michael Rodriguez,shot,nail gun,Evans,CO,False,attack,False,39,Male,Hispanic/Latino,Gunshot,Evans Police Department,2015-01-05
+Brock Nichols,shot,gun,Assaria,KS,False,attack,False,35,Male,White,Gunshot,Saline County Sheriff's Office,2015-01-06
+Autumn Steele,shot,unarmed,Burlington,IA,False,other,True,34,Female,White,Gunshot,Burlington Police Department,2015-01-06
+Leslie Sapp III,shot,toy weapon,Knoxville,PA,False,attack,False,47,Male,Black,Gunshot,"US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff's Office",2015-01-06
+Patrick Wetter,shot and Tasered,knife,Stockton,CA,False,attack,False,25,Male,White,Gunshot,Stockton Police Department,2015-01-06
+Loren Simpson,shot,,Huntley,MT,False,undetermined,False,28,Male,White,Gunshot,Yellowstone County Sheriff's Office,2015-01-08
+Thomas Hamby,shot,gun,Syracuse,UT,False,attack,True,49,Male,White,Gunshot,"Syracuse Police Department, Davis County Sheriff's Office",2015-01-08
+Jimmy Foreman,shot,gun,England,AR,False,attack,False,71,Male,White,Gunshot,England Police Department,2015-01-09
+Andy Martinez,shot,gun,El Paso,TX,False,attack,False,33,Male,Hispanic/Latino,Gunshot,El Paso Police Department,2015-01-09
+Tommy Smith,shot,gun,Arcola,IL,True,attack,False,39,Male,White,Gunshot,"Arcola Police Department, Tuscola Police Department",2015-01-12
+Salvador Figueroa,shot and Tasered,gun,North Las Vegas,NV,False,attack,False,29,Male,Hispanic/Latino,Gunshot,North Las Vegas Police Department,2015-01-11
+Richard McClendon,shot,knife,Jourdanton,TX,True,other,False,43,Male,White,Gunshot,Jourdanton Police Department,2015-01-13
+Marcus Golden,shot,,St. Paul,MN,False,attack,False,24,Male,Black,Gunshot,St Paul Police Department,2015-01-14
+Michael Goebel,shot,,Franklin County,MO,False,attack,False,29,Male,White,Gunshot,"St Louis County Police Department, Jefferson County Sheriff's Office, Franklin County Sheriff's Office",2015-01-14
+Mario Jordan,shot,gun,Chesapeake,VA,True,attack,False,34,Male,Black,Gunshot,Chesapeake Police Department,2015-01-14
+Talbot Schroeder,shot,knife,Old Bridge,NJ,False,attack,False,75,Male,White,Gunshot,Old Bridge Police Department,2015-01-14
+Robert Edwards,shot,gun,Lake Jackson,TX,False,attack,False,68,Male,White,Gunshot,Lake Jackson Police Department,2015-01-14
+Robert Edwards,shot,gun,Lake Jackson,TX,False,attack,False,31,Male,Unknown,Gunshot,Federal Bureau of Investigation,2015-09-11
+Robert Edwards,shot,toy weapon,Miami Township,OH,True,other,False,68,Male,White,Gunshot,Lake Jackson Police Department,2015-01-14
+Robert Edwards,shot,toy weapon,Miami Township,OH,True,other,False,31,Male,Unknown,Gunshot,Federal Bureau of Investigation,2015-09-11
+Donte Sowell,shot,gun,Indianapolis,IN,False,attack,False,27,Male,Black,Gunshot,Indianapolis Metropolitan Police Department,2015-01-15
+Jose Ceja,shot,knife,Fairfield,CA,True,other,False,36,Male,Hispanic/Latino,Gunshot,Fairfield Police Department,2015-01-15
+Nathan Massey,shot,gun,Evangeline Parish,LA,False,attack,False,33,Male,White,Gunshot,Louisiana State Police,2015-01-15
+Scott Hall,shot,gun,Mabank,TX,False,attack,False,41,Male,White,Gunshot,"Texas Rangers, ATF",2015-01-16
+Zaki Shinwary,shot and Tasered,knife,Fremont,CA,False,other,False,48,Male,Unknown,Gunshot,Fremont Police Department,2015-01-16
+Terence Walker,shot,gun,Muskogee,OK,False,attack,True,21,Male,Black,Gunshot,Muskogee Police Department,2015-01-17
+Pablo Meza,shot,gun,Los Angeles,CA,False,attack,False,24,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-01-17
+Daniel Brumley,shot,knife,Fort Worth,TX,False,attack,False,25,Male,Hispanic/Latino,Gunshot,Fort Worth Police Department,2015-01-17
+Carter Castle,shot and Tasered,gun,Gunlock,KY,True,attack,False,67,Male,White,Gunshot,Kentucky State Police,2015-01-18
+Paul Campbell,shot,knife,Weymouth,MA,False,attack,False,49,Male,White,Gunshot,Weymouth Police Department,2015-01-19
+Dewayne Carr,shot,,Scottsdale,AZ,False,other,False,42,Male,Black,Gunshot,Scottsdale Police Department,2015-01-15
+Todd Allen Hodge,shot,gun,Hemet,CA,False,attack,False,36,Male,White,Gunshot,Riverside County Sheriff's Department,2015-01-21
+Isaac Holmes,shot,gun,St. Louis,MO,False,attack,False,19,Male,Black,Gunshot,St Louis Metropolitan Police Department,2015-01-21
+Andrew Toto,shot,gun,Derry,NH,True,attack,False,54,Male,White,Gunshot,Derry Police Department,2015-01-21
+Tiano Meton,shot,toy weapon,Sierra Blanca,TX,False,attack,False,25,Male,Black,Gunshot,US Border Patrol,2015-01-22
+Kristiana Coignard,shot and Tasered,knife,Longview,TX,True,other,False,17,Female,White,Gunshot,Longview Police Department,2015-01-22
+Demaris Turner,shot,,Fort Lauderdale,FL,False,other,False,29,Male,Black,Gunshot,Lauderhill Police Department,2015-01-23
+Jose Antonio Espinoza Ruiz,shot,knife,Levelland,TX,False,other,False,56,Male,Hispanic/Latino,Gunshot,Levelland Police Department,2015-01-23
+Daryl Myler,shot,gun,Rexburg,ID,False,attack,False,45,Male,White,Gunshot,Rexburg Police Department,2015-01-24
+Darin Hutchins,shot,knife,Baltimore,MD,True,other,False,26,Male,Black,Gunshot,Baltimore Police Department,2015-01-24
+Wendell King,shot,gun,Fort Worth,TX,False,attack,False,40,Male,White,Gunshot,Fort Worth Police Department,2015-01-29
+William Campbell,shot,gun,Winslow,NJ,False,attack,False,59,Male,Unknown,Gunshot,Winslow Police Department,2015-01-25
+Raymond Kmetz,shot,gun,New Hope,MN,True,attack,False,68,Male,White,Gunshot,New Hope Police Department,2015-01-26
+David Garcia,shot,knife,Wasco,CA,True,other,False,33,Male,Hispanic/Latino,Gunshot,Kern County Sheriff's Office,2015-01-26
+Tiffany Terry,shot,knife,Omaha,NE,True,attack,False,39,Female,White,Gunshot,Omaha Police Department,2015-01-30
+Chris Ingram,shot,gun,Morenci,AZ,False,attack,False,29,Male,White,Gunshot,Clifton Police Department and Greenlee County Sheriff's Office,2015-01-27
+Jermonte Fletcher,shot,gun,Columbus,OH,False,attack,False,33,Male,Black,Gunshot,"Columbus Division of Police, Ohio State Highway Patrol",2015-01-27
+Cody Karasek,shot,gun,Rosenberg,TX,False,attack,False,26,Male,White,Gunshot,Rosenberg Police Department,2015-01-28
+Matautu Nuu,shot and Tasered,hammer,Stockton,CA,True,attack,False,35,Male,Asian/Pacific Islander,Gunshot,Stockton Police Department,2015-01-28
+Alan James,shot,gun,Wyoming,MI,True,attack,False,31,Male,White,Gunshot,Kentwood Police Department and Wyoming DPS,2015-02-07
+Ralph Willis,shot,unarmed,Stillwater,OK,False,other,False,42,Male,White,Gunshot,Stillwater Police Department,2015-01-29
+David Kassick,shot,unarmed,Hummelstown,PA,False,other,False,59,Male,White,Gunshot,Hummelstown Police Department,2015-02-02
+Jacob Haglund,shot,gun,Bay City,MI,False,attack,False,17,Male,White,Gunshot,Bay City Police Department,2015-02-02
+Yuvette Henderson,shot,gun,Emeryville,CA,False,attack,False,38,Female,Black,Gunshot,Emeryville Police Department,2015-02-03
+Anthony Purvis,shot,gun,Douglas,GA,True,attack,False,45,Male,White,Gunshot,Douglas Police Department,2015-02-03
+Jeremy Lett,shot,unarmed,Tallahassee,FL,False,attack,False,28,Male,Black,Gunshot,Tallahassee Police Department,2015-02-05
+Izzy Colon,shot,gun,Orlando,FL,False,attack,False,37,Male,Hispanic/Latino,Gunshot,Orlando Police Department,2015-02-04
+Salvador Muna,shot,gun,Tempe,AZ,False,attack,False,28,Male,Hispanic/Latino,Gunshot,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",2015-02-04
+Joaquin Hernandez,shot,unarmed,Tempe,AZ,False,other,False,28,Male,Hispanic/Latino,Gunshot,"Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",2015-02-04
+Markell Atkins,shot,knife,Memphis,TN,False,other,False,36,Male,Black,Gunshot,Shelby County Sheriff's Department [US Marshals Service Task Force],2015-02-04
+Herbert Hill,shot,gun,Oklahoma City,OK,False,attack,False,26,Male,Black,Gunshot,Oklahoma City Police Department,2015-02-06
+James Allen,shot,gun,Gastonia,NC,False,attack,False,74,Male,Black,Gunshot,Gastonia Police Department,2015-02-07
+Sawyer Flache,shot,gun,Austin,TX,False,attack,False,27,Male,White,Gunshot,Austin Police Department,2015-02-08
+Vincent Cordaro,shot,gun,New City,NY,True,attack,False,57,Male,White,Gunshot,Clarkstown Police Department,2015-02-09
+Joseph Paffen,shot,gun,Orange County,FL,False,attack,False,46,Male,White,Gunshot,Orange County Sheriff's Office,2015-02-08
+Larry Hostetter,shot,gun,Nocona,TX,False,attack,False,41,Male,White,Gunshot,Nocona Police Department,2015-02-09
+Kenneth Kreyssig,shot,gun,Smyrna,ME,True,undetermined,False,61,Male,White,Gunshot,Maine State Troopers and Aroostook County Sheriff's Department,2015-02-10
+Desmond Luster,shot,gun,Dallas,TX,False,attack,False,45,Male,Black,Gunshot,Dallas Police Department,2015-02-09
+Anthony Bess,shot,gun,Whitehaven,TN,False,attack,False,48,Male,Black,Gunshot,Memphis Police Department,2015-02-10
+Brian Fritze,shot,gun,New Castle,CO,True,attack,False,45,Male,White,Gunshot,Garfield County Sheriff's Office,2015-02-10
+Antonio Zambrano-Montes,shot and Tasered,unarmed,Pasco,WA,True,other,False,35,Male,Hispanic/Latino,Gunshot,Pasco Police Department,2015-02-10
+Phillip Watkins,shot,knife,San Jose,CA,True,other,False,23,Male,Black,Gunshot,San Jose Police Department,2015-02-11
+Andres Lara-Rodriguez,shot,gun,Kansas City,KS,False,attack,False,21,Male,Hispanic/Latino,Gunshot,"Kansas City KS Police Department, Kansas Highway Patrol",2015-02-13
+Richard Carlin,shot,unarmed,Reading,PA,False,other,False,35,Male,White,Gunshot,Pennsylvania State Police,2015-02-13
+Daniel Mejia,shot,knife,San Manuel,AZ,True,other,False,37,Male,Hispanic/Latino,Gunshot,Pinal County Sheriff's Office,2015-02-15
+Bruce Steward,shot,hatchet,Colton,OR,True,other,False,34,Male,White,Gunshot,Clackamas County Sheriff's Office,2015-02-15
+Lavall Hall,shot and Tasered,unarmed,Miami Gardens,FL,True,other,False,25,Male,Black,Gunshot,Miami Gardens Police Department,2015-02-15
+Cody Evans,shot,toy weapon,Provo,UT,True,attack,False,24,Male,White,Gunshot,Provo Police Department,2015-02-15
+Betty Sexton,shot,gun,Gaston County,NC,False,attack,False,43,Female,White,Gunshot,Gastonia Police Department,2015-02-17
+Michael Ireland,shot,unarmed,Springfield,MO,False,other,False,31,Male,White,Gunshot,Springfield Police Department,2015-02-17
+Matthew Lundy,shot,gun,Eaton Rapids Township,MI,False,attack,False,32,Male,White,Gunshot,Eaton County Sheriff's Office,2015-02-17
+Janisha Fonville,shot,undetermined,Charlotte,NC,True,other,False,20,Female,Black,Gunshot,Charlotte-Mecklenburg Police Department,2015-02-19
+Douglas Harris,shot,gun,Birmingham,AL,True,attack,False,77,Male,Black,Gunshot,Birmingham Police Department,2015-03-27
+Kent Norman,shot,knife,Indianapolis,IN,False,attack,False,51,Male,White,Gunshot,Indianapolis Metropolitan Police Department,2015-02-21
+Bradford Leonard,shot,gun,Palm Bay,FL,False,attack,False,50,Male,White,Gunshot,Palm Bay Police Department,2015-02-22
+Robert Kohl,shot,gun,Denham Springs,LA,True,attack,False,47,Male,White,Gunshot,Denham Springs Police Department,2015-02-23
+Anthony Giaquinta,shot,gun,Clarkesville,GA,False,attack,False,41,Male,Hispanic/Latino,Gunshot,Habersham County Sheriff's Office,2015-02-22
+Jerome Nichols,shot and Tasered,knife,Allentown,PA,False,attack,False,42,Male,White,Gunshot,Catasauqua Police Department,2015-02-23
+Daniel Elrod,shot and Tasered,unarmed,Omaha,NE,False,other,False,39,Male,White,Gunshot,Omaha Police Department,2015-02-24
+Joseph Biegert,shot and Tasered,knife,Green Bay,WI,True,attack,False,30,Male,White,Gunshot,Green Bay Police Department,2015-02-24
+Glenn Lewis,shot,,Oklahoma City,OK,False,other,False,37,Male,Black,Gunshot,Oklahoma City Police Department,2015-02-25
+Francis Spivey,shot,gun,Las Vegas,NV,True,attack,False,43,Male,White,Gunshot,Las Vegas Metro Police (Swat),2015-02-25
+David Cuevas,shot,gun,Lakeland,FL,False,attack,False,42,Male,Hispanic/Latino,Gunshot,Lakeland Police Department,2015-02-26
+Amilcar Perez-Lopez,shot,knife,San Francisco,CA,False,other,False,21,Male,Hispanic/Latino,Gunshot,San Francisco Police Department,2015-02-26
+Rodney Biggs,shot,unarmed,Gulfport,MS,False,other,False,49,Male,White,Gunshot,Gulfport Police Department,2015-02-26
+Chazsten Freeman,shot,gun,Pelzer,SC,False,attack,False,24,Male,White,Gunshot,Greenville County Sheriff's Office,2015-02-27
+Jessica Uribe,shot,knife,Tucson,AZ,False,other,False,28,Female,Hispanic/Latino,Gunshot,Tucson Police Department,2015-02-28
+Ian Sherrod,shot,gun,Tarboro,NC,True,attack,False,40,Male,Black,Gunshot,Tarboro Police Department and Edgecombe Sheriff's Office,2015-02-28
+Stephanie Hill,shot,gun,La Paz County,AZ,False,attack,False,37,Female,White,Gunshot,Riverside County Sheriff's Department,2015-02-28
+Deven Guilford,shot and Tasered,unarmed,Roxand Township,MI,False,attack,True,17,Male,White,Gunshot,Eaton County Sheriff's Office,2015-02-28
+Hung Trieu,shot,gun,Houston,TX,False,attack,False,35,Male,Asian/Pacific Islander,Gunshot,Harris County Attorney's Department,2015-02-02
+Shaquille Barrow,shot,gun,Joilet,IL,False,other,False,20,Male,Black,Gunshot,Joliet Police Department,2015-03-02
+Fednel Rhinvil,shot,gun,Salisbury,MD,False,attack,False,25,Male,Black,Gunshot,Maryland State Police,2015-03-03
+Matthew Metz,shot,knife,Tempe,AZ,False,attack,False,25,Male,White,Gunshot,Tempe Police Department,2015-03-03
+Derek Cruice,shot,unarmed,Deltona,FL,False,other,False,26,Male,White,Gunshot,Volusia County Sheriff's Office,2015-03-04
+Carl Lao,shot,gun,Stockton,CA,False,attack,False,28,Male,Asian/Pacific Islander,Gunshot,"Stockton Police Department, San Joaquin County Sheriff's Office",2015-03-04
+Tyson Hubbard,shot,gun,Lincoln,NE,False,attack,False,34,Male,White,Gunshot,US Marshals Service,2015-03-05
+Tony Robinson,shot,unarmed,Madison,WI,False,attack,False,19,Male,Black,Gunshot,Madison Police Department,2015-03-06
+Adam Reinhart,shot,gun,Phoenix,AZ,False,attack,False,29,Male,White,Gunshot,Phoenix Police Department,2015-03-07
+Aurelio Duarte,shot,gun,Oklahoma City,OK,False,attack,False,40,Male,Hispanic/Latino,Gunshot,Oklahoma City Police Department,2015-03-08
+Michael McKillop,shot,,Claymont,DE,False,attack,False,35,Male,White,Gunshot,Delaware State Police,2015-03-08
+Anthony Hill,shot,unarmed,Atlanta,GA,True,other,False,27,Male,Black,Gunshot,DeKalb County Police Department,2015-03-09
+Lester Brown,shot,gun,Brevard,NC,False,attack,False,58,Male,White,Gunshot,"North Carolina Alcohol Law Enforcement, Transylvania County Sheriff's Office, Homeland Security",2015-03-09
+Theodore Johnson,shot,gun,Cleveland,OH,False,attack,True,64,Male,Black,Gunshot,Cleveland Division of Police,2015-03-10
+Jamie Croom,shot,gun,Baton Rouge,LA,False,attack,False,31,Male,Black,Gunshot,US Marshals Service,2015-03-10
+Christopher Mitchell,shot,knife,Port Wentworth,GA,False,attack,True,23,Male,White,Gunshot,Port Wentworth Police Department,2015-03-10
+James Greenwell,shot,gun,Memphis,TN,True,attack,False,31,Male,White,Gunshot,Memphis Police Department,2015-03-11
+Benito Osorio,shot,gun,Santa Ana,CA,False,attack,False,39,Male,Hispanic/Latino,Gunshot,Santa Ana Police Department,2015-03-11
+Gilbert Fleury,shot,gun,Bay Minette,AL,False,attack,False,54,Male,White,Gunshot,Baldwin County Sheriff's Office,2015-03-11
+Aaron Valdez,shot,,Los Angeles,CA,False,other,False,25,Male,Hispanic/Latino,Gunshot,South Gate Police Department,2015-03-11
+Bobby Gross,shot,unarmed,Washington,DC,True,other,False,35,Male,Black,Gunshot,Washington DC Metro Transit Police,2015-03-12
+Andrew Driver,shot,knife,Fontana,CA,False,attack,False,36,Male,White,Gunshot,Fontana Police Department,2015-03-13
+Antonio Perez,shot,unarmed,Walnut Creek,CA,False,other,False,32,Male,Hispanic/Latino,Gunshot,Los Angeles County Sheriff's Department,2015-03-12
+Clifton Reintzel,shot,knife,Follansbee,WV,False,other,False,53,Male,White,Gunshot,"Brooke County Sheriff's Department, West Virginia State Police",2015-03-13
+Aaron Siler,shot,gun,Kenosha,WI,False,attack,False,26,Male,White,Gunshot,Kenosha Police Department,2015-03-14
+Richard Castilleja,shot,gun,San Antonio,TX,True,attack,False,29,Male,Hispanic/Latino,Gunshot,San Antonio Police Department,2015-03-14
+Justin Tolkinen,shot,gun,St. Paul,MN,True,attack,False,28,Male,White,Gunshot,St Paul Police Department,2015-03-16
+Declan Owen,shot,gun,Dublin,NC,False,attack,False,24,Male,White,Gunshot,Bladen County Sheriff's Office and Bladenboro Police Department,2015-03-17
+Alice Brown,shot,,San Francisco,CA,True,other,False,24,Female,White,Gunshot,San Francisco Police Department,2015-03-17
+Roberto Leon,shot,unarmed,Sacramento,CA,False,undetermined,False,22,Male,Hispanic/Latino,Gunshot,California Highway Patrol,2015-03-17
+Kaylene Stone,shot,gun,Glendale,AZ,False,attack,False,49,Female,White,Gunshot,Glendale Police Department,2015-03-18
+Jeff Alexander,shot,knife,Bakersfield,CA,False,other,False,47,Male,White,Gunshot,Bakersfield Police Department,2015-03-17
+Shane Watkins,shot,box cutter,Lawrence County,AL,True,other,True,39,Male,White,Gunshot,Lawrence County Sheriff's Office,2015-03-19
+Brandon Jones,shot,unarmed,Cleveland,OH,False,attack,False,18,Male,Black,Gunshot,Cleveland Division of Police,2015-03-19
+Brandon Jones,shot,toy weapon,Elkton,MD,True,attack,False,18,Male,Black,Gunshot,Cleveland Division of Police,2015-03-19
+Brandon Rapp,shot,gun,Middleton,ID,False,attack,True,31,Male,White,Gunshot,Canyon County Sheriff's Office,2015-03-18
+Kendre Alston,shot,gun,Jacksonville,FL,False,attack,False,16,Male,Black,Gunshot,Jacksonville Sheriff's Office,2015-03-19
+Robert Burdge,shot,gun,Bakersfield,CA,False,attack,False,36,Male,White,Gunshot,Bakersfield Police Department,2015-03-19
+Richard White,shot,machete,New Orleans,LA,True,attack,False,63,Male,Black,Gunshot,Jefferson Parish Sheriff's Office,2015-03-20
+Tyrel Vick,shot,gun,Coal County,OK,False,attack,False,34,Male,White,Gunshot,"Oklahoma Highway Patrol, Tupelo Police Department",2015-03-20
+Justin Fowler,shot,gun,Red Valley,AZ,False,attack,False,24,Male,Native American,Gunshot,Navajo Police Department,2015-03-19
+Enoch Gaver,shot,gun,Cottonwood,AZ,False,attack,False,21,Male,White,Gunshot,Cottonwood Police Department,2015-03-21
+James Ellis,shot,gun,Clarendon,NY,False,attack,False,44,Male,White,Gunshot,Orleans County Sheriff's Office,2015-03-21
+Gary Page,shot,gun,Harmony,IN,True,attack,False,60,Male,White,Gunshot,Clay County Sheriff's Department,2015-03-21
+Jason Smith,shot,gun,Columbus,OH,False,attack,False,42,Male,White,Gunshot,Columbus Division of Police,2015-03-20
+Phillip Conley,shot,knife,Vallejo,CA,True,other,False,37,Male,White,Gunshot,Vallejo Police Department,2015-03-21
+Denzel Brown,shot and Tasered,undetermined,Islip,NY,False,attack,False,21,Male,Black,Gunshot,Suffolk County Police Department,2015-03-22
+Devin Gates,shot,gun,Santa Clara,CA,False,attack,False,24,Male,Black,Gunshot,Santa Clara Police Department,2015-03-22
+Scott Dunham,shot,gun,San Jose,CA,True,attack,False,57,Male,White,Gunshot,San Jose Police Department,2015-03-24
+Nicholas Thomas,shot,undetermined,Smyrna,GA,False,other,True,23,Male,Black,Gunshot,Smyrna Police Department,2015-03-24
+Victor Terrazas,shot,gun,South Los Angeles,CA,False,attack,False,28,Male,Hispanic/Latino,Gunshot,Los Angeles County Sheriff's Department,2015-03-25
+Joseph Tassinari,shot and Tasered,gun,Glendale,AZ,True,other,False,63,Male,White,Gunshot,Glendale Police Department,2015-03-24
+Deanne Choate,shot,gun,Gardner,KS,False,attack,False,53,Female,White,Gunshot,Gardner Police Department,2015-03-26
+Adrian Solis,shot,knife,Wilmington,CA,True,other,False,35,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-03-26
+Harvey Oates,shot,gun,Fort Ashby,WV,False,attack,False,42,Male,White,Gunshot,West Virginia State Police,2015-03-27
+Angelo West,shot,gun,Boston,MA,False,attack,False,41,Male,Black,Gunshot,Boston Police Department,2015-03-27
+Gary Kendrick,shot,gun,Encinitas,CA,True,attack,False,56,Male,White,Gunshot,San Diego County Sheriff's Department,2015-03-27
+Jamalis Hall,shot,knife,Fort Pierce,FL,False,other,False,39,Male,Black,Gunshot,Saint Lucie County Sheriff's Office,2015-03-27
+Adrian Hernandez,shot,toy weapon,Bakersfield,CA,False,attack,False,22,Male,Hispanic/Latino,Gunshot,Bakersfield Police Department,2015-03-27
+Neil Seifert,shot,gun,Webster,MA,False,attack,False,40,Male,White,Gunshot,Webster Police Department,2015-03-27
+Byron Herbert,shot,gun,Elizabethtown,KY,False,attack,False,29,Male,Black,Gunshot,Elizabethtown Police Department,2015-03-29
+Robert Rooker,shot,,Jasper,OH,False,attack,False,26,Male,White,Gunshot,Pike County Sheriff's Department,2015-03-29
+Brian Babb,shot,gun,Eugene,OR,True,attack,False,49,Male,White,Gunshot,Eugene Police Department,2015-03-30
+Jeremy Anderson,shot,gun,Carollwood,FL,False,attack,False,36,Male,White,Gunshot,Tampa Bay Police Department [US Marshals Service Task Force],2015-03-31
+Benjamin Quezada,shot,toy weapon,Baytown,TX,False,attack,False,21,Male,Hispanic/Latino,Gunshot,Baytown Police Department,2015-03-31
+Mya Hall,shot,,Fort Meade,MD,False,other,False,27,Female,Black,Gunshot,NSA Police Department,2015-03-30
+Robert Washington,shot,gun,Hawthorne,CA,False,attack,False,37,Male,Black,Gunshot,Hawthorne Police Department,2015-04-01
+Shawn Clyde,shot,knife,Hamilton,NJ,False,attack,False,36,Male,White,Gunshot,Hamilton Police Department,2015-04-01
+Darrin Langford,shot,gun,Rock Island,IL,False,attack,False,32,Male,Black,Gunshot,Rock Island Police Department,2015-04-02
+Eric Harris,shot,unarmed,Tulsa,OK,False,other,False,44,Male,Black,Gunshot,Tulsa County Sheriff's Office,2015-04-02
+Eric Harris,shot,,New Orleans,LA,False,other,False,44,Male,Black,Gunshot,Tulsa County Sheriff's Office,2015-04-02
+Aaron Rutledge,shot,gun,Pineville,LA,True,attack,False,27,Male,White,Gunshot,Rapides Parish Sheriff's Office,2015-04-02
+Donald Hicks,shot and Tasered,gun,Metropolis,IL,True,attack,False,63,Male,White,Gunshot,Metropolis Police Department,2015-04-02
+Christopher Prevatt,shot,knife,Winchester,VA,False,other,True,38,Male,White,Gunshot,Frederick County Sheriff's Office,2015-04-03
+Justus Howell,shot,gun,Zion,IL,False,attack,False,17,Male,Black,Gunshot,Zion Police Department,2015-04-04
+Paul Anderson,shot,gun,Orange,CA,False,attack,True,31,Male,Black,Gunshot,Anaheim Police Department,2015-04-04
+Ethan Noll,shot,gun,Edgewood,NM,True,attack,False,34,Male,White,Gunshot,New Mexico State Police,2015-04-04
+Walter Scott,shot and Tasered,unarmed,North Charleston,SC,False,other,False,50,Male,Black,Gunshot,North Charleston Police Department,2015-04-04
+Ken Cockerel,shot,knife,Phoenix,AZ,True,other,False,51,Male,White,Gunshot,Phoenix Police Department,2015-04-03
+Richard Hanna,shot,gun,Tehachapi,CA,False,attack,False,56,Male,White,Gunshot,Tehachapi Police Department,2015-04-06
+Alexander Myers,shot,gun,Indianapolis,IN,True,attack,False,23,Male,White,Gunshot,Indianapolis Metropolitan Police Department,2015-04-06
+Desmond Willis,shot,gun,Harvey,LA,False,attack,False,25,Male,Black,Gunshot,Jefferson Parish Sheriff's Office,2015-04-06
+Erick Rose,shot,gun,Pottawatomie County,OK,False,attack,False,32,Male,White,Gunshot,Pottawatomie County Sheriff's Office,2015-04-07
+Douglas Faith,shot,gun,San Antonio,TX,False,attack,False,60,Male,White,Gunshot,San Antonio Police Department,2015-04-08
+Roberto Rodriguez,shot,gun,Los Angeles,CA,False,attack,False,39,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-04-08
+Don Smith,shot,gun,Monon,IN,False,attack,False,29,Male,Black,Gunshot,"Indiana State Police, Tippecanoe County Sheriff's Department",2015-04-09
+Jess Leipold,shot,gun,Straban Township,PA,True,attack,False,31,Male,White,Gunshot,Pennsylvania State Police,2015-04-09
+Phillip Burgess,shot,gun,Boiling Springs,SC,False,attack,False,28,Male,White,Gunshot,Spartanburg County Sheriff's Office,2015-04-09
+Mark Smith,shot and Tasered,,Kellyville,OK,False,attack,False,54,Male,White,Gunshot,Creek County Sheriff's Department and Bristow Police Department,2015-04-08
+Richard Reed,shot,gun,Topeka,KS,False,attack,False,38,Male,White,Gunshot,"Topeka Police Department, Kansas Highway Patrol",2015-04-10
+Donald Allen,shot,gun,Sand Springs,OK,True,attack,True,66,Male,White,Gunshot,Sand Springs Police Department,2015-04-11
+Mack Long,shot,gun,Indianapolis,IN,False,attack,True,36,Male,Black,Gunshot,Indianapolis Metropolitan Police Department,2015-04-12
+Isaac Jimenez,shot,gun,Alton,IL,False,attack,False,27,Male,Hispanic/Latino,Gunshot,Alton Police Department,2015-04-13
+Colby Robinson,shot,undetermined,DeSoto,TX,False,undetermined,False,26,Male,Black,Gunshot,DeSoto Police Department,2015-04-14
+Tevin Barkley,shot,gun,Miami,FL,False,undetermined,False,22,Male,Black,Gunshot,Miami-Dade Police Department,2015-04-15
+Stanley Watson,shot,gun,Cañon City,CO,True,attack,False,72,Male,White,Gunshot,CaÃƒÂŒÃ‚Â±on City Police Department,2015-04-15
+Ernesto Flores,shot,toy weapon,Montclair,CA,True,attack,False,52,Male,Hispanic/Latino,Gunshot,San Bernardino County Sheriff's Office,2015-04-15
+Rodolfo Velazquez,shot,knife,Shafter,CA,False,other,False,47,Male,Hispanic/Latino,Gunshot,Shafter Police Department,2015-04-16
+Elias Cavazos,shot,gun,Hemet,CA,False,attack,False,29,Male,Hispanic/Latino,Gunshot,Riverside County Sheriff's Department and California Highway Patrol,2015-04-17
+Thaddeus McCarroll,shot,knife,Jennings,MO,True,other,True,23,Male,Black,Gunshot,St Louis County Police Department,2015-04-17
+Erik Tellez,shot,gun,Phoenix,AZ,True,attack,False,43,Male,White,Gunshot,Phoenix Police Department,2015-04-18
+Michael Foster,shot,gun,Wilmore,KY,True,attack,False,40,Male,White,Gunshot,Wilmore Police Department,2015-04-19
+Dana Hlavinka,shot,knife,Sidney,NE,False,attack,False,44,Male,White,Gunshot,Sidney Police Department,2015-04-19
+Daniel Covarrubias,shot,unarmed,Lakewood,WA,True,other,False,37,Male,Native American,Gunshot,Lakewood Police Department,2015-04-21
+Kimber Key,shot,knife,Irmo,SC,True,other,False,59,Male,White,Gunshot,Lexington County Sheriff's Office,2015-04-21
+Daniel Wolfe,shot,,Trenton,NJ,False,attack,False,35,Male,Black,Gunshot,New Jersey State Police,2015-04-21
+Jonathan Efraim,shot,gun,Queens,NY,True,attack,False,30,Male,White,Gunshot,New York Police Department,2015-04-22
+Reginald McGregor,shot,gun,Fort Worth,TX,False,attack,False,31,Male,Black,Gunshot,Fort Worth Police Department,2015-04-21
+Lue Vang,shot,gun,Eldorado Springs,CO,False,attack,False,39,Male,Asian/Pacific Islander,Gunshot,Boulder County Sheriff's Office,2015-04-22
+Andrew Valadez,shot,gun,Sylmar,CA,True,attack,False,26,Male,White,Gunshot,Los Angeles Police Department,2015-04-23
+Joseph Potts,shot,gun,Rufe,OK,False,attack,False,51,Male,White,Gunshot,Choctaw County Sheriff's Office and Hugo Police Department,2015-04-23
+Hector Morejon,shot,unarmed,Long Beach,CA,False,other,False,19,Male,Hispanic/Latino,Gunshot,Long Beach Police Department,2015-04-23
+Karen Janks,shot,,Windsor,CA,False,attack,False,46,Female,White,Gunshot,Sonoma County Sheriff's Office,2015-04-23
+Brandon Lawrence,shot,machete,Victoria,TX,True,other,True,25,Male,White,Gunshot,Victoria Police Department,2015-04-25
+David Felix,shot,unarmed,New York,NY,True,attack,False,24,Male,Black,Gunshot,New York Police Department,2015-04-25
+Daniel Davis,shot,knife,Clermont,FL,True,other,False,58,Male,White,Gunshot,Lake County Sheriff's Office,2015-04-25
+Dean Genova,shot,gun,Fountain Valley,CA,False,attack,False,45,Male,White,Gunshot,Fountain Valley Police Department,2015-04-26
+David Parker,shot,gun,Mansfield,OH,False,attack,False,58,Male,White,Gunshot,Mansfield Police Department,2015-04-28
+Jared Johnson,shot,gun,New Orleans,LA,False,attack,True,22,Male,Black,Gunshot,New Orleans Police Department,2015-04-28
+Joshua Green,shot,gun,Marion,IL,True,attack,False,27,Male,White,Gunshot,"Marion Police Department, Illinois State Police and Williamson County Sheriff's Department",2015-04-28
+Andrew Jackson,shot,knife,Chickasha,OK,False,other,False,26,Male,White,Gunshot,Chickasha Police Department,2015-04-29
+Joshua Deysie,shot,gun,Mesa,AZ,True,attack,False,33,Male,Native American,Gunshot,Mesa Police Department,2015-04-29
+Luis Chavez-Diaz,shot,gun,Elk Grove,CA,False,attack,False,27,Male,Hispanic/Latino,Gunshot,California Department of Fish and Wildlife,2015-04-29
+Alexia Christian,shot,gun,Atlanta,GA,False,attack,False,25,Female,Black,Gunshot,Atlanta Police Department,2015-04-30
+John Acree,shot,gun,Nashville,TN,True,attack,False,53,Male,White,Gunshot,Nashville Metropolitan Police Department,2015-04-30
+Kenneth Mathena,shot,gun,Smyrna,DE,False,attack,True,52,Male,White,Gunshot,Smyrna Police Department,2015-05-02
+Elton Simpson,shot,gun,Garland,TX,False,attack,False,30,Male,Black,Gunshot,Garland Police Department,2015-05-03
+Nadir Soofi,shot,gun,Garland,TX,False,attack,False,34,Male,Asian/Pacific Islander,Gunshot,Garland Police Department,2015-05-03
+Billy Grimm,shot,gun,Albuquerque,NM,False,attack,False,44,Male,White,Gunshot,Bernalillo County Sheriff's Department,2015-05-03
+Michael Asher,shot,gun,Chavies,KY,False,attack,False,53,Male,White,Gunshot,Kentucky State Police,2015-05-04
+Roark Cook,shot,toy weapon,Kennewick,WA,True,attack,False,36,Male,White,Gunshot,"Benton County Sheriff's Office, Richland Police Department",2015-05-04
+Brendon Glenn,shot,unarmed,Venice,CA,False,attack,True,29,Male,Black,Gunshot,Los Angeles Police Department,2015-05-06
+Thong Kien Ma,shot,knife,South El Monte,CA,False,attack,False,32,Male,Asian/Pacific Islander,Gunshot,Los Angeles County Sheriff's Department,2015-05-05
+Joseph Roy,shot,knife,Lawrenceville,GA,True,other,False,72,Male,White,Gunshot,Gwinnett County Sheriff's Department,2015-05-07
+Michael Murphy,shot,knife,Beacon,NY,False,other,False,35,Male,White,Gunshot,Beacon Police Department,2015-05-07
+Nephi Arriguin,shot,,Cerritos,CA,False,attack,False,21,Male,Black,Gunshot,Los Angeles County Sheriff's Department,2015-05-07
+Shaun Johnson,shot,sword,Kearny,AZ,False,attack,False,35,Male,White,Gunshot,Pinal County Sheriff's Office,2015-05-08
+David Schwalm,shot,gun,Constantia,NY,True,attack,False,58,Male,White,Gunshot,Oswego County Sheriff's Department,2015-05-08
+Dedrick Marshall,shot,gun,Harvey,LA,False,attack,False,48,Male,Black,Gunshot,Jefferson Parish Sheriff's Office,2015-05-08
+Sam Holmes,shot,,Fridley,MN,False,attack,False,31,Male,Black,Gunshot,Lino Lakes Police Department,2015-05-08
+Kelvin Goldston,shot,,Fort Worth,TX,False,attack,False,30,Male,Black,Gunshot,Fort Worth Police Department,2015-05-11
+Justin Way,shot,machete,St. Augustine,FL,True,other,False,28,Male,White,Gunshot,St Johns County Sheriff's Office,2015-05-11
+D'Angelo Stallworth,shot,gun,Jacksonville,FL,False,other,False,28,Male,Black,Gunshot,Jacksonville Sheriff's Office,2015-05-12
+Alec Ouzounian,shot,undetermined,Rancho Santa Margarita,CA,True,other,False,40,Male,White,Gunshot,Orange County Sheriff's Department,2015-05-12
+Bruce Zalonka,shot and Tasered,gun,Honolulu,HI,False,attack,False,46,Male,Asian/Pacific Islander,Gunshot,US Marshals Service,2015-05-12
+Cary Martin,shot,gun,St. Augustine,FL,True,attack,False,53,Male,White,Gunshot,St Johns County Sheriff's Office,2015-05-14
+Mark Farrar,shot,gun,Rockford,IL,True,attack,False,41,Male,White,Gunshot,Rockford Police Department,2015-05-15
+Ronell Wade,shot,gun,Harvey,IL,False,attack,False,45,Male,Black,Gunshot,Harvey Police Department,2015-05-17
+Austin Goodner,shot,gun,St. Petersburg,FL,True,attack,False,18,Male,White,Gunshot,St Petersburg Police Department,2015-05-17
+Timothy Jones,shot,sword,Ruidoso,NM,False,other,False,27,Male,White,Gunshot,Ruidoso Police Department,2015-05-17
+Alfredo Rials-Torres,shot,unarmed,Arlington,VA,False,attack,False,54,Male,Hispanic/Latino,Gunshot,Arlington Police Department,2015-05-19
+Jonathan McIntosh,shot,gun,Cabot,AR,False,attack,False,35,Male,White,Gunshot,"Lonoke County Sheriff's Office, Arkansas Department of Community Correction",2015-05-19
+Chrislon Talbott,shot,gun,Owensboro,KY,False,attack,False,38,Male,Black,Gunshot,Owensboro Police Department and Kentucky State Police,2015-05-21
+Marcus Wheeler,shot,gun,Omaha,NE,False,attack,False,26,Male,Black,Gunshot,Omaha Police Department,2015-05-20
+Javoris Washington,shot,knife,Ft. Lauderdale,FL,False,attack,False,29,Male,Black,Gunshot,Fort Lauderdale Police Department,2015-05-21
+Elvin Diaz,shot,knife,Hackensack,NJ,True,other,False,24,Male,Hispanic/Latino,Gunshot,Hackensack Police Department,2015-05-21
+Jerome Caldwell,shot,gun,Charleston,SC,False,attack,False,32,Male,Black,Gunshot,South Carolina State Law Enforcement Division,2015-05-21
+Eric Robinson,shot,gun,Eagar,AZ,False,attack,False,40,Male,White,Gunshot,Eagar Police Department and Apache County Sheriff's Office,2015-05-23
+Caso Jackson,shot,gun,Detroit,MI,False,attack,False,25,Male,Black,Gunshot,Detroit Police Department,2015-05-23
+Cassandra Bolin,shot,gun,Austin,TX,True,attack,False,31,Female,White,Gunshot,Austin Police Department,2015-05-25
+Anthony Briggs,shot,knife,Huntsville,AL,True,attack,False,36,Male,Black,Gunshot,Huntsville Police Department,2015-05-25
+Dalton Branch,shot,gun,Queens,NY,False,attack,False,51,Male,Black,Gunshot,New York Police Department,2015-05-26
+Millard Tallant III,shot,gun,Snohomish,WA,True,attack,False,62,Male,White,Gunshot,Snohomish County Sheriff's Office,2015-05-26
+Scott McAllister,shot,knife,Ideal Beach,NJ,False,attack,False,39,Male,White,Gunshot,Monmouth County Emergency Response Team,2015-05-27
+Harry Davis,shot,knife,Rockville,GA,True,attack,False,57,Male,White,Gunshot,Putnam County Sheriff's Department,2015-05-27
+Feras Morad,shot and Tasered,unarmed,Long Beach,CA,False,other,False,20,Male,Arab-American,Gunshot,Long Beach Police Department,2015-05-27
+Simon Hubble,shot and Tasered,screwdriver,Alpine,CA,True,other,False,33,Male,White,Gunshot,San Diego County Sheriff's Department,2015-05-27
+Darrell Morgan,shot,gun,Lancaster,SC,False,attack,False,60,Male,White,Gunshot,Lancaster County Sheriff's Department,2015-05-28
+James Strong,shot,gun,Northglenn,CO,False,attack,False,32,Male,Black,Gunshot,Northglenn Police Department and Thornton Police Department,2015-05-28
+Kenneth Dothard,shot,gun,Carrollton,GA,False,attack,False,40,Male,Black,Gunshot,Carrolton Police Department,2015-05-28
+Kyle Baker,shot and Tasered,lawn mower blade,Trenton,MI,False,attack,False,18,Male,White,Gunshot,Trenton Police Department,2015-05-28
+Kevin Allen,shot,knife,Lyndhurst,NJ,False,other,False,36,Male,Black,Gunshot,Lyndhurst Police Department,2015-05-29
+Nehemiah Fischer,shot,gun,Okmulgee County,OK,False,attack,False,35,Male,White,Gunshot,Oklahoma Highway Patrol,2015-05-29
+Robert Box,shot,gun,Wilderville,OR,False,attack,False,55,Male,White,Gunshot,Oregon State Police,2015-05-29
+James Bushey,shot,toy weapon,Palestine,TX,False,attack,True,47,Male,White,Gunshot,Palestine Police Department,2015-05-31
+Joseph Ladd,shot,gun,Greece,NY,True,attack,False,23,Male,White,Gunshot,Greece Police Department,2015-06-01
+Kamal Dajani,shot,knife,Azle,TX,True,attack,False,26,Male,Arab-American,Gunshot,Tarrant County Sheriff's Office,2015-06-01
+Miguel Martinez,shot,gun,Ellis County,TX,True,attack,False,18,Male,Hispanic/Latino,Gunshot,Ellis County Sheriff's Department and Texas DPS,2015-06-03
+Miguel Martinez,shot,gun,Ellis County,TX,True,attack,False,28,Male,Hispanic/Latino,Gunshot,Denver Police Department,2015-11-22
+Edelmiro Hernandez,shot,knife,Fuqua,TX,False,other,False,33,Male,Hispanic/Latino,Gunshot,Houston Police Department,2015-06-03
+Ronald Neal,shot,gun,Byram,NJ,True,attack,False,56,Male,White,Gunshot,Byram Police Department,2015-06-03
+Rudy Baca,shot and Tasered,unarmed,Los Lunas,NM,False,attack,False,36,Male,Hispanic/Latino,Gunshot,Valencia County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Department,2015-06-03
+Christie Cathers,shot,,Morgantown,WV,False,other,False,45,Female,White,Gunshot,Monongalia County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Department,2015-06-05
+James Smillie,shot,gun,North Port,FL,False,attack,False,53,Male,White,Gunshot,North Port Police Department,2015-06-06
+Joe Nevels,shot,box cutter,Midland,TX,True,other,False,42,Male,White,Gunshot,Midland Police Department,2015-06-06
+Damien Ramirez,shot,gun,Strasburg,CO,False,attack,False,27,Male,Hispanic/Latino,Gunshot,Arapahoe County Sheriff's Office,2015-06-06
+Demouria Hogg,shot and Tasered,gun,Oakland,CA,False,attack,True,30,Male,Black,Gunshot,Oakland Police Department,2015-06-06
+Gene Marshall,shot,gun,Woodland,WA,True,attack,False,58,Male,White,Gunshot,Woodland Police Department,2015-06-07
+James Johnson,shot,gun,Beech Grove,IN,True,attack,False,54,Male,White,Gunshot,Beech Grove Police Department,2015-06-08
+Rene Garcia,shot,knife,Anaheim,CA,True,other,True,30,Male,Hispanic/Latino,Gunshot,Anaheim Police Department,2015-06-08
+Richard Warolf,shot,gun,Sun City,AZ,True,attack,False,69,Male,White,Gunshot,Maricopa County Sheriff's Office,2015-06-08
+Jeremy Linhart,shot,unarmed,Findlay,OH,False,attack,False,30,Male,White,Gunshot,Findlay Police Department,2015-06-09
+Ryan Bolinger,shot,unarmed,Des Moines,IA,False,other,False,28,Male,White,Gunshot,Des Moines Police Department,2015-06-09
+Isiah Hampton,shot,gun,Bronx,NY,False,attack,False,19,Male,Black,Gunshot,New York Police Department,2015-06-10
+Charles Ziegler,shot,gun,Pompano Beach,FL,False,attack,False,40,Male,Black,Gunshot,Broward Sheriff's Office,2015-06-11
+Fritz Severe,shot,undetermined,Miami,FL,False,other,False,46,Male,Black,Gunshot,Miami Police Department,2015-06-11
+Raymond Peralta-Lantigua,shot,knife,Hackensack,NJ,True,other,False,22,Male,Hispanic/Latino,Gunshot,Hackensack Police Department,2015-06-11
+Anthony Hodge,shot,gun,Fort Wayne,IN,False,attack,False,46,Male,White,Gunshot,Fort Wayne Police Department,2015-06-13
+Deng Manyoun,shot,flagpole,Louisville,KY,False,other,False,35,Male,Black,Gunshot,Louisville Metro Police Department,2015-06-13
+James Boulware,shot,guns and explosives,Hutchins,TX,True,attack,False,35,Male,White,Gunshot,Dallas Police Department,2015-06-13
+Kenneth Garcia,shot,,Stockton,CA,False,attack,False,28,Male,Hispanic/Latino,Gunshot,Stockton Police Department,2015-06-14
+Zane Terryn,shot,gun,Cocoa,FL,True,attack,False,15,Male,White,Gunshot,Brevard County Sheriff's Office,2015-06-14
+Kris Jackson,shot,unarmed,South Lake Tahoe,CA,False,other,False,22,Male,Black,Gunshot,South Lake Tahoe Police Department,2015-06-15
+Christopher DeLeon,shot,gun,Visalia,CA,False,attack,False,28,Male,White,Gunshot,Visalia Police Department,2015-06-16
+Wendy Chappell,shot,gun,Clanton,AL,False,attack,False,40,Female,White,Gunshot,Alabama Law Enforcement Agency,2015-06-17
+Kenneth Lanphier,shot,gun,Hobbs,NM,True,attack,False,48,Male,White,Gunshot,Hobbs Police Department,2015-06-17
+Oleg Tcherniak,shot,knife,Coney Island,NY,False,attack,False,58,Male,White,Gunshot,New York Police Department,2015-06-18
+Santos Laboy,shot,knife,Boston,MA,True,other,False,45,Male,Hispanic/Latino,Gunshot,Massachusetts State Police,2015-06-19
+Trepierre Hummons,shot,gun,Cincinnati,OH,True,attack,False,21,Male,Black,Gunshot,Cincinnati Police Department,2015-06-19
+Louis Atencio,shot,gun,Greeley,CO,False,attack,False,50,Male,Hispanic/Latino,Gunshot,Greeley Police Department,2015-06-19
+Alfontish Cockerham,shot,gun,Chicago,IL,False,attack,False,23,Male,Black,Gunshot,Chicago Police Department,2015-06-20
+Adrian Simental,shot,unarmed,Azusa,CA,True,other,False,24,Male,Hispanic/Latino,Gunshot,Azusa Police Department,2015-06-21
+Eduardo Reyes,shot,gun,Citrus Heights,CA,False,attack,False,35,Male,Hispanic/Latino,Gunshot,Citrus Heights Police Department,2015-06-22
+Tyler Wicks,shot,gun,Augusta,GA,True,attack,False,30,Male,White,Gunshot,Richmond County Sheriff's Office,2015-06-22
+Tyrone Harris,shot,gun,Pittsburgh,PA,False,attack,False,20,Male,Black,Gunshot,Pittsburgh Police Department,2015-06-22
+Joshua Dyer,shot,unarmed,Indianapolis,IN,False,other,False,34,Male,White,Gunshot,Indianapolis Metropolitan Police Department,2015-06-23
+Jonathan Wilson,shot,knife,Hutchinson,KS,False,attack,False,22,Male,White,Gunshot,Hutchinson Police Department,2015-06-23
+Randall Waddel,shot,knife,Weatherford,TX,True,other,False,49,Male,White,Gunshot,Weatherford Police Department,2015-06-23
+Taylor Culbertson,shot,gun,Omaha,NE,False,attack,False,32,Male,White,Gunshot,Douglas County Sheriff's Office,2015-06-23
+Spencer McCain,shot,unarmed,Owings Mills,MD,True,other,False,41,Male,Black,Gunshot,Baltimore County Police Department,2015-06-25
+Richard Matt,shot,gun,Malone,NY,False,attack,False,49,Male,White,Gunshot,Federal law enforcement agents,2015-06-26
+Joshua Crittenden,shot,gun,Tahlequah,OK,False,attack,True,35,Male,White,Gunshot,Tahlequah Police Department,2015-06-27
+Richard LaPort,shot,gun,Edinburg,NY,True,attack,False,50,Male,White,Gunshot,"Saratoga County Sheriff's Office, New York State Police",2015-06-29
+Kaleb Landon,shot,gun,Josephine County,OR,False,attack,False,32,Male,White,Gunshot,"Oregon State Police, ATF",2015-07-01
+Douglas Buckley,shot,toy weapon,Brockton,MA,True,attack,False,45,Male,White,Gunshot,Brockton Police Department,2015-07-02
+Ton Nguyen,shot,knife,San Diego,CA,False,other,False,60,Male,Asian/Pacific Islander,Gunshot,San Diego Police Department,2015-07-02
+Brian Johnson,shot,crossbow,Meadow Bridge,WV,True,attack,False,59,Male,Unknown,Gunshot,"West Virginia State Police, Summers County Sheriff's Department",2015-07-02
+Arturo Lopez,shot,gun,Lancaster,CA,False,attack,False,46,Male,Hispanic/Latino,Gunshot,Los Angeles County Sheriff's Department,2015-07-03
+Oscar Camacho,shot,gun,Camden,NJ,True,attack,False,33,Male,Hispanic/Latino,Gunshot,Camden County Police Department,2015-07-03
+Kawanza Beaty,shot,gun,Newport News,VA,False,attack,False,23,Male,Black,Gunshot,Newport News Police Department,2015-07-04
+Michael Holt,shot,gun,Austin,TX,False,attack,False,35,Male,White,Gunshot,Austin Police Department,2015-07-05
+Johnny Ray Anderson,shot,unarmed,Hawaiian Gardens,CA,False,other,False,43,Male,Hispanic/Latino,Gunshot,Los Angeles County Sheriff's Department,2015-07-05
+Richard Munroe,shot and Tasered,toy weapon,Austin,TX,True,attack,False,25,Male,White,Gunshot,Austin Police Department,2015-07-05
+Tyler Rogers,shot,gun,Oklahoma City,OK,False,attack,False,20,Male,White,Gunshot,Oklahoma City Police Department,2015-07-06
+Hagen Esty-Lennon,shot,knife,Bath,NH,True,other,True,42,Male,White,Gunshot,Haverhill Police Department,2015-07-06
+Jason Hendley,shot,knife,Los Angeles,CA,False,attack,False,29,Male,Black,Gunshot,Los Angeles Police Department,2015-07-06
+Adam Dujanovic,shot,metal pole,Mesa,AZ,False,other,False,33,Male,White,Gunshot,Mesa Police Department,2015-07-06
+Joe Cody,shot,gun,Dallas,TX,False,attack,False,59,Male,White,Gunshot,Dallas Police Department,2015-07-07
+Tremaine Dantzler,shot,knife,Atlantic City,NJ,False,attack,False,37,Male,Black,Gunshot,Atlantic City Police Department,2015-07-07
+Nicholas Booth,shot,gun,Sugar Creek,MO,False,attack,False,35,Male,White,Gunshot,Independence Police Department,2015-07-07
+Joshua Blough,shot,knife,Elizabethtown,KY,False,other,False,28,Male,White,Gunshot,Elizabethtown Police Depatment,2015-07-07
+Dallas Shatley,shot,,Ashe County,NC,False,attack,True,62,Male,White,Gunshot,Ashe County Sheriff's Office,2015-07-08
+Robert Hammonds,shot,gun,Phoenix,AZ,False,attack,False,68,Male,White,Gunshot,Phoenix Police Department,2015-07-09
+Martice Milliner,shot,gun,Chicago,IL,False,attack,False,27,Male,Black,Gunshot,Chicago Police Department,2015-07-09
+Cyrus Hurtado,shot,gun,Boulder Creek,CA,True,attack,False,17,Male,White,Gunshot,Santa Cruz County Sheriff's Office,2015-07-09
+Javon Hawkins,shot,sword,Kansas City,MO,False,other,False,21,Male,Black,Gunshot,Kansas City Police Department,2015-07-09
+Neil White,shot and Tasered,Taser,Los Angeles,CA,False,attack,False,38,Male,White,Gunshot,Los Angeles Police Department,2015-07-09
+Freddie Blue,shot,gun,Covington,GA,False,attack,False,20,Male,Black,Gunshot,Newton County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Office,2015-07-10
+Eugene McSwain,shot,gun,Chicago,IL,False,attack,False,25,Male,Black,Gunshot,Chicago Police Department,2015-07-10
+Billy Maine,shot,gun,Olivehurst,CA,False,attack,False,31,Male,White,Gunshot,Yuba County Sheriff's Department,2015-07-11
+Paul Castaway,shot,knife,Denver,CO,True,other,False,35,Male,Native American,Gunshot,Denver Police Department,2015-07-12
+David Lepine,shot,gun,Austin,TX,False,attack,False,62,Male,White,Gunshot,Austin Police Department,2015-07-12
+Matthew Watson,shot,gun,River Forest,IL,False,attack,False,24,Male,White,Gunshot,River Forest Police Department,2015-07-12
+Christopher Benton,shot,gun,Casper,WY,False,attack,False,27,Male,White,Gunshot,Casper Police Department,2015-07-12
+Salvado Ellswood,shot and Tasered,unarmed,Plantation,FL,False,attack,False,36,Male,Black,Gunshot,Plantation Police Department,2015-07-12
+Frederick Farmer,shot,gun,Stone Mountain,GA,False,attack,False,20,Male,Black,Gunshot,Dekalb County Police Department,2015-07-12
+Rafael Suazo,shot,,Lynn,MA,False,attack,False,23,Male,Hispanic/Latino,Gunshot,Lynn Police Department,2015-07-13
+Jason Davis,shot and Tasered,box cutter,Los Angeles,CA,False,other,False,41,Male,White,Gunshot,Los Angeles Police Department,2015-07-13
+Chacarion Avant,shot,gun,Mascotte,FL,False,attack,False,20,Male,Black,Gunshot,Lake County Sheriff's Office,2015-07-14
+Charles Crandall,shot,gun,Southington,OH,False,attack,False,76,Male,White,Gunshot,Trumbull County Sheriff's Office,2015-07-14
+Eugene Kailing,shot and Tasered,metal pipe,Marion,MI,True,other,False,43,Male,White,Gunshot,Michigan State Police,2015-07-15
+Saige Hack,shot,gun,Cheyenne,WY,False,attack,False,23,Male,White,Gunshot,Cheyenne Police Department,2015-07-16
+Anthonie Smith,shot and Tasered,metal hand tool,Moreno Valley,CA,True,other,False,25,Male,Black,Gunshot,Moreno Valley Police Department,2015-07-16
+Samuel Smith,shot,knife,Seattle,WA,False,other,False,27,Male,White,Gunshot,Seattle Police Department,2015-07-17
+Jackie Brand,shot,gun,Needles,CA,True,attack,False,50,Male,White,Gunshot,San Bernardino Sheriff's Department,2015-07-17
+Darrius Stewart,shot,unarmed,Memphis,TN,False,attack,False,19,Male,Black,Gunshot,Memphis Police Department,2015-07-17
+Samuel DuBose,shot,unarmed,Mt. Auburn,OH,False,other,True,43,Male,Black,Gunshot,University of Cincinnati Police Department,2015-07-19
+Joshua LeBoeuf,shot,gun,Winnie,TX,False,attack,False,35,Male,White,Gunshot,Chambers County Sheriff's Office,2015-07-20
+Troy Francis,shot,knife,Fremont,CA,False,other,False,54,Male,Asian/Pacific Islander,Gunshot,Fremont Police Department,2015-07-20
+Joseph Fuller,shot,gun,Oakland Park,FL,False,other,False,24,Male,White,Gunshot,Broward Sheriff's Office,2015-07-21
+Jerrod Tyre,shot,gun,Jesup,GA,False,attack,False,35,Male,White,Gunshot,Wayne County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Office,2015-07-21
+Francisco Benitez-Santiago,shot,gun,Monroe,WI,False,attack,False,25,Male,Hispanic/Latino,Gunshot,Green Lake County Sheriff's Office,2015-07-22
+Devon Guisherd,shot,gun,Philadelphia,PA,False,attack,False,26,Male,Black,Gunshot,Philadelphia Police Department,2015-07-22
+Brian Stortzum,shot,gun,Myrtle Beach,SC,False,attack,False,32,Male,White,Gunshot,Horry County Police Department,2015-07-23
+Tamala Satre,shot,gun,Meadow Vista,CA,True,attack,False,44,Female,White,Gunshot,Placer County Sheriff's Office,2015-07-23
+Derek Wolfsteller,shot and Tasered,unarmed,Plymouth,MN,True,attack,False,31,Male,White,Gunshot,Plymouth Police Department,2015-07-23
+Seth Raines,shot,gun,Studio City,CA,False,attack,False,44,Male,White,Gunshot,Los Angeles Police Department,2015-07-24
+Christopher Olmstead,shot,blunt object,New Orleans,LA,True,attack,False,60,Male,White,Gunshot,New Orleans Police Department,2015-07-25
+Roger Braswell,shot,gun,Decatur,GA,True,attack,False,50,Male,White,Gunshot,Decatur County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Office,2015-07-25
+Earl Jackson,shot,gun,Micanopy,FL,False,attack,False,59,Male,Black,Gunshot,Florida Highway Patrol,2015-07-25
+Khari Westly,shot,gun,Shreveport,LA,False,attack,False,33,Male,Black,Gunshot,Shreveport Police Department,2015-07-26
+Zachary Hammond,shot,,Seneca,SC,False,other,False,19,Male,White,Gunshot,Seneca Police Department,2015-07-26
+Timothy Milliken,shot,knife,Irmo,SC,False,attack,False,56,Male,White,Gunshot,Lexington County Sheriff's Department,2015-07-27
+Jean Paul Falgout,shot,toy weapon,Houma,LA,True,attack,False,45,Male,White,Gunshot,"Terrebonne Parish Sheriff's Office, Houma Police Department, Louisiana State Police",2015-07-27
+Samuel Forgy,shot and Tasered,knife,Boulder,CO,False,other,False,22,Male,White,Gunshot,Boulder Police Department,2015-07-27
+Timothy Johnson,shot,knife,Manila,AR,False,other,False,41,Male,White,Gunshot,Manila Police Department,2015-07-28
+Michael Malone,shot,gun,Las Cruces,NM,False,undetermined,False,34,Male,Hispanic/Latino,Gunshot,DoÃƒÂŒÃ‚Â±a Ana County Sheriff's Office,2015-07-29
+Mark Perkins,shot,gun,Gardnerville Ranchos,NV,False,attack,False,48,Male,White,Gunshot,Douglas County Sheriff's Office,2015-07-30
+Philip Vallejo,shot,gun,Fort Worth,TX,False,attack,False,30,Male,Hispanic/Latino,Gunshot,Fort Worth Police Department,2015-07-31
+Rafael Molina,shot,gun,Albuquerque,NM,False,attack,True,33,Male,Hispanic/Latino,Gunshot,Albuquerque Police Department,2015-07-31
+Virgil Reynolds,shot,,Houston,TX,True,other,False,63,Male,White,Gunshot,Houston Police Department,2015-08-01
+Antonio Clements,shot,gun,Oakland,CA,False,attack,False,49,Male,Black,Gunshot,Oakland Police Department,2015-08-03
+Joshua Malave,shot,gun,Campbelltown,PA,False,attack,False,18,Male,White,Gunshot,South Londonderry Police Department,2015-08-03
+Franklin Short,shot,gun,Powhatan County,VA,False,attack,False,71,Male,White,Gunshot,Powhatan County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Office,2015-08-03
+Shawn Ruble,shot,toy weapon,Muncie,IN,True,attack,False,35,Male,White,Gunshot,Muncie Police Department,2015-08-03
+John Dieringer,shot,knife,Greenfield,WI,True,other,False,51,Male,White,Gunshot,Greenfield Police Department,2015-08-05
+Raymond Hodge,shot,gun,Maui,HI,False,attack,False,39,Male,Black,Gunshot,Maui Police Department,2015-08-05
+Vincente Montano,shot,hatchet,Antioch,TN,True,attack,False,29,Male,Hispanic/Latino,Gunshot,Metropolitan Nashville Police Department,2015-08-05
+Jason Galaviz,shot,gun,Tacoma,WA,False,attack,False,40,Male,White,Gunshot,Tacoma Police Department,2015-08-05
+Gustavo Ponce-Galon,shot,knife,Elsmere,KY,False,attack,False,42,Male,Hispanic/Latino,Gunshot,Elsmere Police Department,2015-08-06
+Christian Taylor,shot,unarmed,Arlington,TX,False,other,False,19,Male,Black,Gunshot,Arlington Police Department,2015-08-07
+Abel Correa,shot,sharp object,Las Vegas,NV,True,other,True,24,Male,Hispanic/Latino,Gunshot,Las Vegas Police Department,2015-08-07
+Aaron Marchese,shot,toy weapon,Fresno,CA,True,attack,False,30,Male,White,Gunshot,Fresno Police Department,2015-08-07
+Mark Keckhafer,shot,,Superior,MT,False,other,False,53,Male,White,Gunshot,Mineral County Sheriff's Department,2015-08-07
+Tsombe Clark,shot,gun,Greenville,NC,False,attack,False,25,Male,Black,Gunshot,Greenville Police Department,2015-08-08
+Roderick Burr,shot,gun,Brookshire,TX,False,attack,False,33,Male,Unknown,Gunshot,Brookshire Police Department,2015-08-08
+Kevin McDaniel,shot,gun,Spokane,WA,False,attack,False,46,Male,White,Gunshot,Spokane Police Department,2015-08-08
+Andre Green,shot,,Indianapolis,IN,False,attack,False,15,Male,Black,Gunshot,Indianapolis Metropolitan Police Department,2015-08-10
+Eric Tompkins,shot,gun,Ardmore,OK,True,attack,False,41,Male,White,Gunshot,Ardmore Police Department,2015-08-09
+Edrian Rivera,shot,meat cleaver,San Jose,CA,False,attack,False,22,Male,Hispanic/Latino,Gunshot,San Jose Police Department,2015-08-09
+Nathaniel Wilks,shot,gun,Oakland,CA,False,attack,True,24,Male,Black,Gunshot,Oakland Police Department,2015-08-12
+Reginald Marshall,shot,gun,Toledo,OH,False,attack,False,27,Male,Black,Gunshot,Toledo Police Department,2015-08-12
+William Smith,shot,gun,Hobbs,NM,False,undetermined,False,49,Male,White,Gunshot,Lea County Sheriff's Department and Hobbs Police Department,2015-08-12
+Redel Jones,shot and Tasered,knife,Los Angeles,CA,False,other,False,30,Female,Black,Gunshot,Los Angeles Police Department,2015-08-12
+Garland Tyree,shot,gun,Staten Island,NY,False,attack,False,38,Male,Black,Gunshot,New York Police Department,2015-08-14
+Christopher Anderson,shot and Tasered,box cutter,Bolton,CT,False,attack,False,53,Male,White,Gunshot,Connecticut State Police and Manchester Police Department,2015-08-14
+John Unsworth,shot and Tasered,unarmed,Hanover,IN,False,attack,False,43,Male,White,Gunshot,Jefferson County IN Sheriff's Office,2015-08-15
+Matthew Castillo,shot,gun,San Jose,CA,False,other,False,29,Male,Hispanic/Latino,Gunshot,San Jose Police Department,2015-08-16
+Frederick Roy,shot,gun,Houston,TX,False,attack,False,35,Male,Black,Gunshot,Houston Police Department,2015-08-17
+Richard Jacquez,shot,unarmed,San Jose,CA,False,other,False,40,Male,Hispanic/Latino,Gunshot,San Jose Police Department,2015-08-17
+Mansur Ball-Bey,shot,gun,St. Louis,MO,False,attack,False,18,Male,Black,Gunshot,St Louis Metropolitan Police Department,2015-08-19
+Jason Hale,shot,gun,Hunters,WA,True,attack,False,29,Male,White,Gunshot,Stevens County Sheriff's Office,2015-08-19
+Tyler Gerken,shot,gun,Beverly,OH,True,attack,False,19,Male,White,Gunshot,Washington County Sheriff's Office,2015-08-20
+Timmy Walling,shot,gun,Grapeview,WA,True,attack,False,57,Male,White,Gunshot,Mason County Sheriff's Office,2015-08-21
+Adam Schneider,shot,gun,Cohasset,MN,False,attack,False,31,Male,White,Gunshot,Itasca County Sheriff's office,2015-08-22
+Nicholas Garner,shot,,Wichita,KS,False,attack,False,26,Male,White,Gunshot,Wichita Police Department,2015-08-22
+Thaddeus Faison,shot and Tasered,gun,Troy,NY,False,attack,False,39,Male,Black,Gunshot,Troy Police Department,2015-08-22
+Julian Hoffman,shot,toy weapon,Brick Township,NJ,False,attack,False,21,Male,White,Gunshot,Brick Township Police Department,2015-08-23
+Marvin Maestas,shot,gun,Santa Fe,NM,False,attack,False,30,Male,Hispanic/Latino,Gunshot,"New Mexico State Police, Santa Fe Police Department, Santa Fe County Sheriff's Office",2015-08-25
+Curtis Smith,shot,knife,West Chester,PA,False,attack,False,34,Male,Black,Gunshot,Chester County Sheriff's Office,2015-08-25
+Todd Tomlinson,shot,gun,Thonotosassa,FL,False,attack,False,51,Male,White,Gunshot,Hillsborough County Sheriff's Office,2015-08-25
+Marvin Arroliga,shot,gun,Miami,FL,False,attack,False,22,Male,Hispanic/Latino,Gunshot,Miami-Dade Police Department,2015-08-25
+Steven Dodd,shot,toy weapon,Hendersonville,TN,True,attack,False,22,Male,White,Gunshot,Hendersonville Police Department,2015-08-26
+Brent Pickard,shot,gun,Chattanooga,TN,False,attack,False,46,Male,White,Gunshot,Hamilton County Sheriff's Office,2015-08-26
+Yonas Alehegne,shot,chain,Oakland,CA,False,attack,True,30,Male,Black,Gunshot,Oakland Police Department,2015-08-27
+Robert Hober,shot,box cutter,San Diego,CA,False,other,True,54,Male,White,Gunshot,San Diego Police Department,2015-08-28
+Manuel Soriano,shot,contractor's level,Los Angeles,CA,False,attack,False,29,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-08-27
+Bertrand Davis,shot and Tasered,box cutter,Dallas,TX,False,attack,False,43,Male,Black,Gunshot,Dallas Police Department,2015-08-27
+Gilbert Flores,shot,undetermined,San Antonio,TX,True,undetermined,False,41,Male,Hispanic/Latino,Gunshot,Bexar County Sheriff's Office,2015-08-28
+William Evans,shot,gun,Spanish Fork,UT,True,attack,True,28,Male,White,Gunshot,Spanish Fork Police Department,2015-08-28
+Felix Kumi,shot,unarmed,Mount Vernon,NY,False,other,False,61,Male,Black,Gunshot,New York Police Department,2015-08-28
+Roger Albrecht,shot,knife,San Antonio,TX,False,other,False,43,Male,Hispanic/Latino,Gunshot,San Antonio Police Department,2015-08-29
+Rafael Cruz Jr,shot,unarmed,Chicago,IL,False,undetermined,False,29,Male,Hispanic/Latino,Gunshot,Chicago Police Department,2015-08-29
+Shawn Hall,shot,gun,Cushing,OK,False,attack,False,20,Male,White,Gunshot,Cushing Police Department,2015-08-30
+William Rippley,shot,knife,Loveland,CO,False,attack,False,46,Male,White,Gunshot,Loveland Police Department,2015-08-31
+Arthur Bates,shot,gun,Prescott,AZ,True,attack,True,45,Male,White,Gunshot,Yavapai County Sheriff's Office,2015-09-02
+Freddy Centeno,shot,unarmed,Fresno,CA,True,attack,True,40,Male,Hispanic/Latino,Gunshot,Fresno Police Department,2015-09-03
+Sully Lanier,shot,gun,Springtown,TX,False,attack,False,36,Male,White,Gunshot,Parker County Sheriff's Department,2015-09-04
+Harrison Lambert,shot,knife,Merrimack,NH,True,other,False,23,Male,White,Gunshot,Merrimack Police Department,2015-09-03
+Luis Wenceslao,shot,metal pipe,Ontario,CA,True,other,True,32,Male,Hispanic/Latino,Gunshot,Ontario Police Department,2015-09-05
+India Kager,shot,unarmed,Virginia Beach,VA,False,undetermined,False,27,Female,Black,Gunshot,Virginia Beach Police Department,2015-09-05
+Carlos Yero,shot,gun,Little Havana,FL,False,attack,False,60,Male,White,Gunshot,Miami Police Department,2015-09-06
+Mohamed Ibrahim,shot,gun,Shreveport,LA,True,attack,False,28,Male,Other,Gunshot,Shreveport Police Department,2015-09-06
+William Verrett,shot,gun,Hobbs,NM,False,attack,False,42,Male,White,Gunshot,Hobbs Police Department,2015-09-07
+Tristan Vent,shot,gun,Fairbanks,AK,False,attack,False,19,Male,Native American,Gunshot,"Fairbanks Police Department, Alaska State Troopers",2015-09-08
+Dustin Kuik,shot,gun,Ashwaubenon,WI,False,attack,False,25,Male,White,Gunshot,Ashwaubenon Department of Public Safety,2015-09-09
+Tyrone Holman,shot,guns and explosives,Kansas City,MO,True,other,False,37,Male,Black,Gunshot,Kansas City Police Department,2015-09-09
+William Chau,shot,knife,El Monte,CA,False,attack,False,59,Male,Asian/Pacific Islander,Gunshot,El Monte Police Department,2015-09-09
+Tian Ma,shot,knife,Potsdam,NY,False,attack,False,31,Male,Asian/Pacific Islander,Gunshot,Potsdam Police Department,2015-09-10
+Brandon Foy,shot,gun,Indianapolis,IN,False,attack,False,29,Male,Black,Gunshot,Indiana State Police,2015-09-10
+Eddie Tapia,shot,gun,Downey,CA,False,attack,False,41,Male,Hispanic/Latino,Gunshot,Los Angeles County Sheriff's Department,2015-09-10
+Phillip Pfleghardt,shot,gun,Broomfield,CO,False,attack,False,44,Male,White,Gunshot,Broomfield Police Department,2015-09-11
+Tyrone Bass,shot,unknown weapon,Chalmette,LA,False,attack,False,21,Male,Black,Gunshot,St Bernard Sheriff's Office,2015-09-15
+Florencio Chaidez,shot,gun,Panorama City,CA,False,attack,True,32,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-09-15
+Carlos Wilhelm,shot,gun,Los Angeles,CA,False,attack,False,39,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-09-16
+Mark Gary,shot,gun,Beaverton,MI,False,attack,False,50,Male,White,Gunshot,Michigan State Police,2015-09-17
+Lawrence Price,shot,gun,Brodhead,KY,False,attack,False,61,Male,White,Gunshot,"Kentucky State Police, Rockcastle County Sheriff's Department",2015-09-17
+Gregory Herrell,shot,undetermined,Dickson,TN,False,undetermined,False,46,Male,White,Gunshot,Dickson County Sheriff's Office,2015-09-18
+Lucien Rolland,shot,gun,Slidell,LA,False,attack,False,46,Male,White,Gunshot,"St Tammany Parish Sheriff's Office, Slidell Police Department, Louisiana State Police",2015-09-19
+Scott Beech,shot,gun,Washington County,AL,True,attack,True,57,Male,White,Gunshot,Washington County Sheriff's Office,2015-09-18
+Jerrald Wright,shot,gun,Shelbyville,IN,False,attack,False,56,Male,White,Gunshot,"Shelbyville Police Department, Shelby County SheriffÃ‚Â‰ÃƒÂ›Ã‚Âªs Department",2015-09-20
+Gerardo Ramirez,shot,gun,Dallas,TX,True,attack,False,24,Male,Hispanic/Latino,Gunshot,Dallas Police Department,2015-09-21
+William Spaits,shot,gun,Sand City,CA,False,attack,False,27,Male,White,Gunshot,Sand City Police Department,2015-09-21
+Tina Money,shot,gun,Sand City,CA,False,attack,False,23,Female,White,Gunshot,Sand City Police Department,2015-09-21
+Timothy Wagner,shot,gun,Barberville,FL,False,attack,False,24,Male,White,Gunshot,Volusia County Sheriff's Office,2015-09-21
+Dominic Fuller,shot,stapler,Auburndale,FL,False,other,False,24,Male,Hispanic/Latino,Gunshot,Polk County Sheriff's Office,2015-09-21
+Dante Osborne,shot,gun,Oakland,CA,False,attack,False,32,Male,Black,Gunshot,Alameda County Sheriff's Office,2015-09-22
+Robert Berger,shot,knife,Salt Lake City,UT,False,attack,False,48,Male,Black,Gunshot,Salt Lake City Police Department,2015-09-23
+Joseph Khammash,shot,gun,McKinney,TX,False,attack,False,35,Male,White,Gunshot,McKinney Police Department,2015-09-23
+Jeremy McDole,shot,gun,Wilmington,DE,True,undetermined,False,28,Male,Black,Gunshot,Wilmington Police Department,2015-09-23
+Patrick O'Grady,shot,gun,Fountain,CO,False,attack,False,17,Male,White,Gunshot,Fountain Police Department,2015-09-24
+Philip Quinn,shot,screwdriver,St. Paul,MN,True,other,False,30,Male,Native American,Gunshot,St Paul Police Department,2015-09-24
+William Lemmon,shot,unarmed,Akron,OH,True,undetermined,False,21,Male,White,Gunshot,Akron Police Department,2015-09-25
+Jeffrey Blood,shot,gun,Wilhoit,AZ,False,attack,False,45,Male,White,Gunshot,Yavapai County Sheriff's Office,2015-09-25
+James Anderson,shot and Tasered,box cutter,Chicago,IL,False,other,False,34,Male,Black,Gunshot,Chicago Police Department,2015-09-25
+Anthony McKinney,shot,knife,Baton Rouge,LA,False,attack,False,46,Male,Black,Gunshot,East Baton Rouge Sheriff's Office,2015-09-26
+Alejandro Lerma,shot,gun,Lovington,NM,False,attack,False,23,Male,Hispanic/Latino,Gunshot,Lovington Police Department,2015-09-26
+Christopher Shell,shot,gun,Rossville,GA,False,attack,False,43,Male,White,Gunshot,Walker County Sheriff's Office,2015-09-27
+Alberto Hernandez,shot,toy weapon,San Ysidro,CA,False,attack,True,59,Male,Hispanic/Latino,Gunshot,San Diego Police Department,2015-09-28
+Junior Prosper,shot and Tasered,unarmed,Miami,FL,False,attack,False,31,Male,Black,Gunshot,Miami-Dade Police Department,2015-09-28
+Matthew Dobbins,shot,unarmed,Amarillo,TX,False,undetermined,False,29,Male,White,Gunshot,Randall County Sheriff's Office,2015-10-02
+Christian Pena,shot and Tasered,knife,Rialto,CA,False,attack,False,26,Male,Hispanic/Latino,Gunshot,Rialto Police Department,2015-10-02
+Eric Edgell,shot,gun,Muscle Shoals,AL,True,attack,False,27,Male,White,Gunshot,"Muscle Shoals Police Department, Sheffield Police Department",2015-10-04
+Jeffery McCallum,shot,gun,Chicago,IL,False,attack,False,31,Male,Black,Gunshot,Chicago Police Department,2015-10-04
+Rodney Jencsik,shot,gun,Woodbridge,NJ,False,attack,False,50,Male,White,Gunshot,Woodbridge Police Department,2015-10-05
+Omar Ali,shot,unarmed,Akron,OH,False,other,False,27,Male,White,Gunshot,Akron Police Department,2015-09-21
+Donald Miller II,shot,gun,Monterey,CA,True,attack,False,39,Male,White,Gunshot,Monterey Police Department,2015-10-06
+Amado Lago,shot,machete,West Palm Beach,FL,False,attack,False,46,Male,Hispanic/Latino,Gunshot,Palm Beach County Sheriff's Office,2015-10-07
+Margaret Wagner,shot,gun,Aguanga,CA,False,attack,False,62,Female,White,Gunshot,Riverside County Sheriff's Department,2015-10-09
+Christopher Whitmarsh,shot,,Beverly,MA,True,attack,False,49,Male,White,Gunshot,Beverly Police Department,2015-10-10
+Richard Love,shot,gun,Old Saybrook,CT,False,attack,False,31,Male,White,Gunshot,Connecticut State Police,2015-10-10
+William Combs,shot,,Pinion Hills,CA,True,other,False,38,Male,White,Gunshot,San Berardino County Sheriff's Department,2015-10-10
+Travis Quay,shot,crossbow,Cato Township,MI,False,attack,False,40,Male,White,Gunshot,Michigan State Police,2015-10-09
+Anthony Aguilar,shot and Tasered,unknown weapon,Lisle,IL,False,undetermined,False,35,Male,Unknown,Gunshot,Lisle Police Department,2015-10-10
+Kevin Lau,shot,gun,Lakes Charles,LA,False,attack,False,44,Male,Asian/Pacific Islander,Gunshot,Lake Charles Police Department,2015-10-11
+Jason Day,shot,gun,Lawton,OK,False,attack,False,40,Male,Black,Gunshot,Lawton Police Department,2015-10-12
+Rudolph Smith,shot,gun,Brookhaven,MS,False,attack,False,31,Male,White,Gunshot,Brookhaven Police Department,2015-10-12
+Brent Brannon,shot,gun,Cartersville,GA,False,attack,False,27,Male,White,Gunshot,Emerson Police Department,2015-10-14
+Samuel Villarreal,shot,,Indio,CA,False,other,False,18,Male,Hispanic/Latino,Gunshot,Indio Police Department,2015-10-14
+Kaleb Alexander,shot,gun,Columbus,OH,False,attack,False,25,Male,Black,Gunshot,Columbus Police Department,2015-10-15
+Herbert Benitez,shot,gun,San Francisco,CA,False,attack,False,27,Male,Hispanic/Latino,Gunshot,San Francisco Police Department,2015-10-15
+Jason Foreman,shot,gun,Barrow County,GA,False,attack,False,45,Male,Unknown,Gunshot,Hall County Sheriff's Department,2015-10-16
+Gino Paredes,shot,toy weapon,Modesto,CA,False,attack,False,22,Male,Hispanic/Latino,Gunshot,Modesto Police Department,2015-10-17
+Corey Jones,shot,gun,Palm Beach Gardens,FL,False,undetermined,False,31,Male,Black,Gunshot,Palm Beach Gardens Police Department,2015-10-18
+Krikor Ekizian,shot,knife,Fresno,CA,True,attack,False,28,Male,White,Gunshot,Fresno Police Department,2015-10-18
+Lamontez Jones,shot,toy weapon,San Diego,CA,False,attack,False,39,Male,Black,Gunshot,San Diego Police Department,2015-10-20
+Joel Lopes,shot,gun,Truth or Consequences,NM,False,attack,False,40,Male,White,Gunshot,Sierra County Sheriff's Office,2015-10-20
+Darien Greenwood,shot,knife,Mandeville,LA,False,attack,False,30,Male,White,Gunshot,St Tammany Parish Sheriff's Office,2015-10-20
+Timothy Arnold,shot,gun,Kentwood,MI,True,attack,False,47,Male,White,Gunshot,Kentwood Police Department,2015-10-21
+Lawrence Green,shot,knife,Shreveport,LA,False,attack,False,38,Male,Black,Gunshot,Shreveport Police Department,2015-10-22
+Juan Ulloa,shot,gun,Highgrove,CA,False,attack,False,34,Male,Hispanic/Latino,Gunshot,California Highway Patrol,2015-10-24
+Rolly Thomas,shot,gun,Cape Coral,FL,False,attack,True,34,Male,Black,Gunshot,Cape Coral Police Department,2015-10-24
+Dominic Hutchinson,shot,undetermined,Cathedral City,CA,False,undetermined,False,30,Male,Black,Gunshot,Cathedral City Police Department,2015-10-24
+Jon Ployhar,shot,undetermined,Kenai Peninsula,AK,False,attack,False,49,Male,White,Gunshot,Alaska State Troopers,2015-10-24
+John Tozzi,shot,gun,New Paltz,NY,False,attack,False,61,Male,White,Gunshot,New Paltz Police Department,2015-10-24
+Kevin Brunson,shot,,Frederick,MD,False,other,False,45,Male,Black,Gunshot,Maryland State Police,2015-10-26
+Marquesha McMillan,shot,gun,Washington,DC,False,attack,False,21,Female,Black,Gunshot,Washington Metropolitan Police Department,2015-10-26
+Kobvey Igbuhay,shot,unarmed,Tampa,FL,False,attack,False,18,Male,Asian/Pacific Islander,Gunshot,Tampa Police Department,2015-10-26
+Tyrie Cuyler,shot,gun,Savannah,GA,False,attack,True,25,Male,Black,Gunshot,Savannah-Chatham Metropolitan Police Department,2015-10-27
+Anthony Ashford,shot,unarmed,Point Loma,CA,False,attack,False,29,Male,Black,Gunshot,San Diego Harbor Police Department,2015-10-27
+Mario Martinez,shot,gun,Mesquite,TX,False,attack,False,29,Male,Hispanic/Latino,Gunshot,"Mesquite Police Department, Texas Department of Public Safety",2015-10-30
+Tony Berry,shot,gun,Houston,TX,False,other,False,25,Male,Black,Gunshot,Houston Police Department,2015-10-30
+Daniel Nole,shot and Tasered,knife,Norwood,OK,False,attack,False,30,Male,White,Gunshot,Cherokee County Sheriff's Office,2015-10-30
+Brian Crawford,shot,gun,Houston,TX,False,attack,False,24,Male,Black,Gunshot,Houston Police Department,2015-10-30
+Larry Busby,shot,gun,Old Town,FL,False,attack,False,52,Male,White,Gunshot,Dixie County Sheriff's Office,2015-10-29
+Noah Harpham,shot,gun,Colorado Springs,CO,False,attack,False,33,Male,White,Gunshot,Colorado Springs Police Department,2015-10-31
+Bennie Lee Tignor,shot,unarmed,Opelika,AL,False,other,False,56,Male,Black,Gunshot,Opelika Police Department,2015-10-31
+Jack Yantis,shot,gun,Council,ID,False,undetermined,True,62,Male,White,Gunshot,Adams County Sheriff's Office,2015-11-01
+Jeremy Mardis,shot,unarmed,Marksville,LA,False,other,True,6,Male,White,Gunshot,Ward 2 city marshals,2015-11-03
+Joseph Tyndall,shot,gun,Springfield,MO,False,attack,False,30,Male,White,Gunshot,Springfield Police Department,2015-11-04
+John Allen,shot,gun,Houston,TX,False,attack,False,54,Male,White,Gunshot,Boulder City Police Department,2015-03-30
+John Allen,shot,gun,Houston,TX,False,attack,False,57,Male,Black,Gunshot,Houston Police Department,2015-11-04
+Faisal Mohammad,shot,knife,Merced,CA,False,attack,False,18,Male,Arab-American,Gunshot,University of California Police Department,2015-11-04
+James Bigley,shot,gun,Hominy,OK,True,attack,False,20,Male,White,Gunshot,Skiatook Police Department,2015-11-05
+Jacob Hohman,shot,hammer,Lakeshire,MO,False,attack,False,30,Male,White,Gunshot,"Lakeshire Police Department, St Louis County Police Department",2015-11-05
+Laura Lemieux,shot,gun,Goose Creek,SC,True,attack,False,36,Female,White,Gunshot,Berkeley County Sheriff's Office,2015-11-05
+Delvin Simmons,shot,,Spartanburg,SC,False,attack,False,20,Male,Black,Gunshot,Spartanburg Methodist College Campus Safety Department,2015-11-09
+Leonel Acevedo,shot,gun,San Jose,CA,False,attack,False,45,Male,Hispanic/Latino,Gunshot,San Jose Police Department,2015-11-09
+Miguel Cano,shot and Tasered,bean-bag gun,Los Angeles,CA,False,other,False,34,Male,Hispanic/Latino,Gunshot,Los Angeles Police Department,2015-11-09
+Andrew Blake,shot,gun,Dillon,MT,False,attack,False,22,Male,White,Gunshot,Beaverhead County Sheriff's Office,2015-11-10
+Joseph Jaramillo,shot,,Albuquerque,NM,False,other,False,31,Male,Hispanic/Latino,Gunshot,Bernalillo County Sheriff's Department,2015-11-11
+Brian Gavin,shot,gun,Aiken,SC,False,attack,False,57,Male,White,Gunshot,Aiken County Sheriff's Office,2015-11-11
+Ernesto Gamino,shot,undetermined,Jurupa Valley,CA,False,undetermined,False,25,Male,Hispanic/Latino,Gunshot,Riverside County Sheriff's Department,2015-11-13
+Matthew Coleman,shot,gun,Eden,GA,False,attack,False,25,Male,White,Gunshot,Effingham County Sheriff's Office,2015-11-13
+Ramon Salazar,shot,hammer,Jurupa Valley,CA,False,other,False,31,Male,Hispanic/Latino,Gunshot,Riverside County Sheriff's Department,2015-11-14
+Richard Perkins,shot,toy weapon,Oakland,CA,False,attack,False,39,Male,Black,Gunshot,Oakland Police Department,2015-11-15
+Shane Whitehead,shot,unknown weapon,Germantown,PA,False,attack,False,16,Male,Black,Gunshot,Philadelphia Housing Authority Police Department,2015-11-15
+Jamar Clark,shot,unarmed,Minneapolis,MN,False,undetermined,False,24,Male,Black,Gunshot,Minneapolis Police Department,2015-11-15
+Yohans Leon,shot,gun,Miami,FL,True,attack,False,28,Male,Black,Gunshot,Miami-Dade Police Department,2015-11-17
+Demetrius Bryant,shot,gun,Cayce,SC,False,attack,False,21,Male,Black,Gunshot,Cayce Department of Public Safety,2015-11-17
+Jeray Chatham,shot,,Weatherford,TX,False,other,False,30,Male,Black,Gunshot,Harris County Sheriff's Office,2015-11-17
+Derry Touchstone,shot,unarmed,Arlington,GA,False,other,False,58,Male,White,Gunshot,Early County Sheriff's Office,2015-11-17
+Francis Hartnett,shot,gun,Little Egg Harbor,NJ,True,attack,False,47,Male,White,Gunshot,Little Egg Harbor Police Department,2015-11-17
+Michael Tindall,shot,gun,Weatherford,TX,False,undetermined,False,41,Male,White,Gunshot,Weatherford Police Department,2015-11-17
+Cornelius Brown,shot,unknown weapon,Opa-Locka,FL,False,other,False,25,Male,Black,Gunshot,Opa-locka Police Department,2015-11-18
+Marcus Meridy,shot,gun,Benton Township,MI,False,attack,False,44,Male,Black,Gunshot,Michigan State Police,2015-11-18
+Steve Dormil,shot,knife,Fort Pierce,FL,False,attack,False,27,Male,Black,Gunshot,Fort Pierce Police Department,2015-11-19
+Darick Napper,shot,knife,Washington,DC,False,other,False,34,Male,Black,Gunshot,Metropolitan Police Department of the District of Columbia,2015-11-19
+William Tarrant,shot,gun,Paulding County,GA,True,attack,False,39,Male,White,Gunshot,Paulding County Sheriff's Office,2015-11-20
+Barry Kirk,shot,gun,Columbus,OH,False,attack,False,50,Male,White,Gunshot,Columbus Division of Police,2015-11-23
+Henry Reyna,shot and Tasered,knife,Corpus Christi,TX,False,other,True,49,Male,Hispanic/Latino,Gunshot,Corpus Christi Police Department,2015-11-23
+Michael Kirvelay,shot,toy weapon,Columbia Heights,MN,False,other,False,45,Male,White,Gunshot,"Columbia Heights Police Department, Fridley Police Department",2015-11-24
+Freddy Baez,shot,gun,Camden,NJ,False,attack,False,24,Male,Black,Gunshot,Camden County Police Department,2015-11-24
+Somer Speer,shot,gun,Ozark,MO,False,attack,False,37,Female,White,Gunshot,"Christian County Sheriff's Department, Nixa Police Department",2015-11-25
+Andrew Thomas,shot,unarmed,Chico,CA,False,other,True,26,Male,White,Gunshot,Paradise Police Department,2015-11-25
+Rick Gullickson,shot,gun,Lampe,MO,False,attack,False,58,Male,White,Gunshot,Stone County Sheriff's Office,2015-11-27
+Kevin Close,shot,baseball bat and fireplace poker,Seagoville,TX,False,other,False,50,Male,White,Gunshot,Seagoville Police Department,2015-11-28
+Lionel Kerns,shot,gun,Maysville,MO,False,attack,False,53,Male,White,Gunshot,"Dekalb County Sheriff's Department, Missouri State Highway Patrol",2015-11-29
+Ralph Aguilar,shot,gun,Sun City,AZ,True,attack,False,69,Male,Hispanic/Latino,Gunshot,Maricopa County Sheriff's Office,2015-11-29
+Zachary Grigsby,shot,gun,Lincoln,NE,False,attack,False,29,Male,White,Gunshot,Lincoln Police Department,2015-11-29
+Tuan Hoang,shot,,Aurora,CO,False,attack,False,25,Male,Asian/Pacific Islander,Gunshot,Aurora Police Department,2015-11-30
+Darius Smith,shot,gun,Atlanta,GA,False,attack,False,18,Male,Black,Gunshot,Atlanta Police Department,2015-11-30
+Fernando Sauceda,shot,undetermined,Wink,TX,False,other,False,31,Male,Hispanic/Latino,Gunshot,Jal Police Department,2015-11-30
+Phillip Munoz,shot,gun,Denver,CO,False,attack,False,35,Male,Hispanic/Latino,Gunshot,Denver Police Department,2015-12-02
+Tashfeen Malik,shot,gun,San Bernardino,CA,False,attack,False,27,Female,Asian/Pacific Islander,Gunshot,Unknown,2015-12-02
+Syed Farook,shot,gun,San Bernardino,CA,False,attack,False,28,Male,Asian/Pacific Islander,Gunshot,Unknown,2015-12-02
+Mario Woods,shot,knife,San Francisco,CA,False,other,False,26,Male,Black,Gunshot,San Francisco Police Department,2015-12-02
+Allen Pacheco,shot,gun,San Antonio,TX,False,other,False,32,Male,Hispanic/Latino,Gunshot,Texas Department of Public Safety,2015-12-02
+Florencio Lucero,shot,gun,Deming,NM,False,attack,False,36,Male,Hispanic/Latino,Gunshot,Deming Police Department,2015-12-02
+Ivan Krstic,shot and Tasered,metal stick,Mesa,AZ,False,other,False,47,Male,White,Gunshot,Mesa Police Department,2015-12-03
+Sheilah Huck,shot,gun,St. Louis,MO,False,attack,False,61,Female,White,Gunshot,St Louis County Police Department,2015-12-05
+Juan Perez,shot,gun,Indio,CA,False,attack,False,38,Male,Hispanic/Latino,Gunshot,Indio Police Department,2015-12-05
+Raymond Azevedo,shot,gun,Seattle,WA,False,attack,False,35,Male,White,Gunshot,Seattle Police Department,2015-12-06
+Carlumandarlo Zaramo,shot,gun,Richmond Heights,OH,True,attack,False,46,Male,Black,Gunshot,Richmond Heights Police Department,2015-12-06
+Miguel Espinal,shot,unarmed,Yonkers,NY,False,other,False,36,Male,Black,Gunshot,New York Police Department,2015-12-08
+Derek Stokes,shot,gun,Cleveland,OH,False,attack,False,33,Male,Black,Gunshot,Cleveland Metroparks Ranger Department,2015-12-08
+Christopher Higdon,shot,gun,Leitchfield,KY,False,attack,False,66,Male,White,Gunshot,Grayson County Sheriff's Office,2015-12-09
+Jason Bryant,shot,gun,Indianapolis,IN,False,attack,False,34,Male,White,Gunshot,Indianapolis Metropolitan Police Department,2015-12-10
+Steven Wickert,shot,unarmed,Tucson,AZ,False,attack,False,36,Male,White,Gunshot,"Pima County Sheriff's Department, Pima County Attorney's Office",2015-12-11
+Christopher Goodlow,shot,knife,Indianapolis,IN,True,attack,False,25,Male,Black,Gunshot,Indianapolis Metropolitan Police Department,2015-12-12
+Nicholas Robertson,shot,gun,Lynwood,CA,False,attack,False,28,Male,Black,Gunshot,Los Angeles County Sheriff's Department,2015-12-12
+Jonathan Wardlow,shot,Taser,Healdton,OK,False,attack,False,36,Male,White,Gunshot,Healdton Police Department,2015-12-12
+Roy Carreon,shot,knife,San Bernardino,CA,False,attack,False,49,Male,Hispanic/Latino,Gunshot,San Bernardino Police Department,2015-12-12
+Efrain Villanueva,shot,unknown weapon,Aurora,CO,False,attack,False,51,Male,Unknown,Gunshot,Aurora Police Department,2015-12-12
+Ryan McMillan,shot,ax,Denton,TX,True,other,False,21,Male,White,Gunshot,University of North Texas Police Department,2015-12-13
+Enrique Gonzalez,shot,gun,Mountain View,CO,False,attack,False,32,Male,Hispanic/Latino,Gunshot,Mountain View Police Department,2015-12-13
+Calvin McKinnis,shot,gun,New Orleans,LA,False,attack,True,33,Male,Black,Gunshot,New Orleans Police Department,2015-12-14
+Hector Alvarez,shot,undetermined,Gilroy,CA,False,undetermined,True,19,Male,Hispanic/Latino,Gunshot,Gilroy Police Department,2015-12-14
+Roberto Sanchez,shot,gun,Las Vegas,NV,False,attack,False,45,Male,Hispanic/Latino,Gunshot,Las Vegas Metropolitan Police Department,2015-12-14
+Mark Toney,shot,gun,Mount Hope,WV,False,attack,False,33,Male,White,Gunshot,Mount Hope Police Department,2015-12-14
+Douglas Yon,shot,machete,Kent,OH,True,other,False,25,Male,White,Gunshot,Kent Police Department,2015-12-17
+Christopher Fletcher,shot,gun,Modesto,CA,False,attack,False,24,Male,White,Gunshot,Modesto Police Department,2015-12-17
+Amos Frerichs,shot,,Knoxville,TN,False,attack,False,32,Male,White,Gunshot,Knox County Sheriff's Office,2015-12-18
+Leroy Browning,shot,gun,Palmdale,CA,False,attack,False,30,Male,Black,Gunshot,Los Angeles County Sheriff's Department,2015-12-20
+Guadalupe Quiroz,shot,gun,Hemet,CA,False,attack,False,34,Male,Hispanic/Latino,Gunshot,Hemet Police Department,2015-12-21
+Bobby Daniels,shot,gun,Douglasville,GA,False,attack,False,48,Male,Black,Gunshot,Douglas County Sheriff's Office,2015-12-21
+Michael Noel,shot,unarmed,Breaux Bridge,LA,True,other,False,32,Male,Black,Gunshot,St Martin Parish Sheriff's Office,2015-12-21
+Derek DeGroat,shot,gun,Canaan Township,PA,True,attack,False,21,Male,White,Gunshot,Pennsylvania State Police,2015-12-21
+Brandon Barsnick,shot,gun,Smartsville,CA,False,attack,False,30,Male,White,Gunshot,Unknown,2015-12-21
+Charles Reynolds,shot,gun,Ludlow,KY,False,attack,True,61,Male,Unknown,Gunshot,Ludlow Police Department,2015-12-22
+Kenneth Stephens,shot,gun,Burlington,VT,False,attack,True,56,Male,White,Gunshot,"Vermont State Police, Drug Enforcement Administration",2015-12-22
+Michael Hilber,shot,undetermined,Brooksville,FL,False,undetermined,False,29,Male,White,Gunshot,Hernando County Sheriff's Office,2015-12-22
+Kevin Matthews,shot,unarmed,Dearborn,MI,True,other,False,35,Male,Black,Gunshot,Dearborn Police Department,2015-12-23
+Schuylar Gunning,shot,,Winnsboro,LA,False,other,False,36,Male,White,Gunshot,Franklin Parish Sheriff's Office,2015-12-24
+Gregory Sanders,shot,gun,Pride,LA,True,attack,False,54,Male,Unknown,Gunshot,East Baton Rouge Sheriff's Office,2015-12-24
+Omar Ventura,shot,knife,Porterville,CA,False,other,False,23,Male,Hispanic/Latino,Gunshot,Porterville Police Department,2015-12-24
+Lonnie Niesen,shot,brick,Phoenix,AZ,True,other,False,41,Male,White,Gunshot,Phoenix Police Department,2015-12-26
+Bettie Jones,shot,unarmed,Chicago,IL,False,other,False,55,Female,Black,Gunshot,Chicago Police Department,2015-12-26
+Quintonio LeGrier,shot,baseball bat,Chicago,IL,True,undetermined,False,19,Male,Black,Gunshot,Chicago Police Department,2015-12-26
+Gilbert Heredia,shot,gun,Homedale,ID,False,attack,True,38,Male,Hispanic/Latino,Gunshot,"Homedale Police Department, Owyhee County Sheriff's Office",2015-12-26
+Michael Parker,shot,undetermined,Lucedale,MS,False,undetermined,False,36,Male,White,Gunshot,George County Sheriff's Office,2015-12-27
+Sean Mould,shot,knife,Tempe,AZ,True,other,True,34,Male,White,Gunshot,Tempe Police Dpeartment,2015-12-27
+Siolosega Velega-Nuufolau,shot,knife,Santa Nella,CA,True,other,False,50,Female,Unknown,Gunshot,Merced County Sheriff's Department,2015-12-29
+Tien Hua,shot,unknown weapon,Rosemead,CA,False,undetermined,False,33,Male,Asian/Pacific Islander,Gunshot,Los Angeles Police Department,2015-12-29
+Fred Perez,shot,knife,Fresno,CA,False,attack,True,55,Male,Hispanic/Latino,Gunshot,Fresno Police Department,2015-12-30
+James Brown III,shot,gun,Richmond,VA,False,attack,False,25,Male,Black,Gunshot,Las Vegas Metropolitan Police Department,2015-08-29
+Michael Johnson,shot,gun,Chicago,IL,False,other,False,51,Male,White,Gunshot,Portland Police Bureau,2015-11-06
+Michael Johnson,shot,gun,Newnan,GA,False,attack,True,51,Male,White,Gunshot,Portland Police Bureau,2015-11-06
+Michael Johnson,shot,knife,Thousand Oaks,CA,True,other,True,51,Male,White,Gunshot,Portland Police Bureau,2015-11-06
+Joseph Weber,shot,undetermined,Hays,KS,False,other,False,28,Male,White,Gunshot,Sunnyvale Police Department,2015-04-08
+Raymond Davis,shot,gun,Columbus,MS,False,other,True,68,Male,White,Gunshot,DeLand Police Department,2015-11-06
+Robert Martinez,shot,gun,Eugene,OR,False,other,False,58,Male,Hispanic/Latino,Gunshot,Taos County Sheriff's Office,2015-12-18
+Robert Martinez,shot,vehicle,Denver,CO,False,attack,False,58,Male,Hispanic/Latino,Gunshot,Taos County Sheriff's Office,2015-12-18
+Michael Pierce,shot,gun,Vancouver,WA,True,attack,False,23,Male,White,Gunshot,Harrisonburg Police Department,2015-09-20
+Matthew Graham,shot,gun,Myrtle Beach,SC,False,attack,True,23,Male,White,Gunshot,"Shasta County Sheriff's Office, California Highway Patrol",2015-07-13
+Richard Davis,shot,gun,Kansas City,MO,False,attack,False,50,Male,Black,Taser,Rochester Police Department,2015-05-31
